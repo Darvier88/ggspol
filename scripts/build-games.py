@@ -51,6 +51,7 @@ for path in glob.glob(f"{CONTENT}/*.md"):
         "trailer": data.get("trailer") or "",
         "desarrollador": data.get("desarrollador") or "",
         "tienda": data.get("tienda") or "",
+        "precio": data.get("precio") or "Por anunciar",
         "estado": data.get("estado", "Confirmado"),
         "galeria": to_list(data.get("galeria")),
     })

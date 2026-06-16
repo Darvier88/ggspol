@@ -312,6 +312,7 @@ function detailHTML(g){
   const gens = g.generos.map(x=>`<span class="tag gen">${esc(x)}</span>`).join('');
   const plats = g.plataformas.map(x=>`<span class="tag">${esc(x)}</span>`).join('');
   const dev = g.desarrollador ? `<div class="fact"><div class="k">DESARROLLADOR</div><div class="v">${esc(g.desarrollador)}</div></div>` : '';
+  const precio = (g.precio && g.precio!=='Por anunciar') ? `<div class="fact"><div class="k">PRECIO</div><div class="v">${esc(g.precio)}</div></div>` : '';
   const store = g.tienda ? `<a class="btn btn-accent storebtn" href="${esc(g.tienda)}" target="_blank" rel="noopener">Ver en tienda ↗</a>` : '';
   const gallery = (g.galeria&&g.galeria.length)
     ? `<div class="gallery">${g.galeria.map(src=>`<img loading="lazy" src="${esc(src)}" alt="" onclick="lightbox('${esc(src)}')">`).join('')}</div>`
@@ -328,6 +329,7 @@ function detailHTML(g){
       </div>
       <aside class="facts">
         ${dev}
+        ${precio}
         <div class="fact"><div class="k">PLATAFORMAS</div><div class="v"><div class="taglist">${plats}</div></div></div>
         <div class="fact"><div class="k">GÉNEROS</div><div class="v"><div class="taglist">${gens}</div></div></div>
         ${store}

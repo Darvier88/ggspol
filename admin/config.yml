@@ -50,6 +50,7 @@ collections:
       - { name: "trailer", label: "Enlace del tráiler (YouTube)", widget: "string", required: false }
       - { name: "desarrollador", label: "Desarrollador / Estudio", widget: "string", required: false }
       - { name: "tienda", label: "Enlace a tienda (Steam, eShop…)", widget: "string", required: false }
+      - { name: "precio", label: "Precio", widget: "string", required: false, default: "Por anunciar", hint: "Ej.: $59.99, Gratis, Por anunciar." }
       - name: "generos"
         label: "Géneros"
         widget: "list"
