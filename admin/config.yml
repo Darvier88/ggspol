@@ -1,0 +1,69 @@
+# =============================================================
+#  Configuración de GG'spol (Decap CMS)
+#  EDITA la línea `repo:` con tu usuario/repositorio de GitHub.
+# =============================================================
+backend:
+  name: github
+  repo: Darvier88/ggspol      # <-- EDITA AQUÍ (usuario/repositorio)
+  branch: main
+  # Si alojas en Netlify, la autenticación de GitHub funciona sola.
+  # Si NO usas Netlify, descomenta y apunta a tu proxy OAuth:
+  # base_url: https://tu-proxy-oauth.ejemplo.dev
+
+# Las imágenes que subas se guardan dentro del repositorio:
+media_folder: "assets/img/juegos"
+public_folder: "/assets/img/juegos"
+
+# Idioma del panel
+locale: "es"
+
+# Guarda los cambios directamente (sin flujo editorial); cambia a "editorial_workflow"
+# si quieres revisar como Pull Request antes de publicar.
+publish_mode: simple
+
+collections:
+  - name: "juegos"
+    label: "Juegos"
+    label_singular: "Juego"
+    folder: "content/juegos"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{nombre}} — {{fecha_texto}}"
+    sortable_fields: ["fecha_orden", "nombre"]
+    identifier_field: nombre
+    fields:
+      - { name: "nombre", label: "Nombre", widget: "string" }
+      - { name: "slug", label: "Slug (URL)", widget: "string", required: false, hint: "Déjalo vacío para autogenerarlo del nombre." }
+      - { name: "portada", label: "Imagen de portada", widget: "image", required: false, hint: "Aparece en la tarjeta del catálogo." }
+      - name: "estado"
+        label: "Estado"
+        widget: "select"
+        options: ["Confirmado", "Rumor"]
+        default: "Confirmado"
+      - { name: "fecha_texto", label: "Fecha (texto visible)", widget: "string", default: "Sin fecha", hint: "Lo que se muestra: '24 SEP 2026', '2027', 'Sin fecha'…" }
+      - { name: "fecha_orden", label: "Fecha para ordenar", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: false, hint: "Opcional. Úsala para ordenar 'próximos primero'. Vacío = va al final." }
+      - name: "demo"
+        label: "Demo / Playtest"
+        widget: "select"
+        options: ["Sin demo", "Demo disponible", "Playtest disponible"]
+        default: "Sin demo"
+      - { name: "trailer", label: "Enlace del tráiler (YouTube)", widget: "string", required: false }
+      - { name: "desarrollador", label: "Desarrollador / Estudio", widget: "string", required: false }
+      - { name: "tienda", label: "Enlace a tienda (Steam, eShop…)", widget: "string", required: false }
+      - name: "generos"
+        label: "Géneros"
+        widget: "list"
+        field: { name: "genero", label: "Género", widget: "string" }
+      - name: "plataformas"
+        label: "Plataformas"
+        widget: "list"
+        field: { name: "plataforma", label: "Plataforma", widget: "string" }
+      - name: "galeria"
+        label: "Galería de imágenes"
+        label_singular: "Imagen"
+        widget: "list"
+        required: false
+        summary: "{{fields.imagen}}"
+        field: { name: "imagen", label: "Imagen", widget: "image" }
+        hint: "Se muestran al final de la ficha del juego. Añade las que quieras."
+      - { name: "body", label: "Descripción", widget: "text" }

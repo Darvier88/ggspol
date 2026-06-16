@@ -1,0 +1,2789 @@
+[
+  {
+    "slug": "crushed-in-time",
+    "nombre": "Crushed In Time",
+    "portada": "https://img.youtube.com/vi/0YJ8U_v-PKc/hqdefault.jpg",
+    "descripcion": "Lánzate con Sherlock Holmes y el doctor Watson a esta aventura «point & click» tan sorprendente como flexible. Sujeta bien, tira y suelta para ayudarles a resolver un caso de lo más surrealista, repleto de humor y viajes en el metatiempo.",
+    "fecha_texto": "10 JUN 2026",
+    "fecha_orden": "2026-06-10",
+    "generos": [
+      "Aventura",
+      "Apuntar y clic",
+      "3D",
+      "Comedia",
+      "Puzles",
+      "Misterio"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/0YJ8U_v-PKc?si=E7jdj-f3jU_H10W5",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "star-fox",
+    "nombre": "Star Fox",
+    "portada": "https://img.youtube.com/vi/_p0UmSWGP2w/hqdefault.jpg",
+    "descripcion": "Fox McCloud y sus compañeros regresan con Star Fox, un «remake» del juego Lylat Wars de Nintendo 64. ¡Solo para Nintendo Switch 2! ¡Prepárate para intensos combates aéreos a medida que vas liberando planeta a planeta el sistema Lylat de las garras de Andross!",
+    "fecha_texto": "24 JUN 2026",
+    "fecha_orden": "2026-06-24",
+    "generos": [
+      "Disparos"
+    ],
+    "plataformas": [
+      "Nintendo Switch 2"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/_p0UmSWGP2w?si=TGgCMv6xIQEw_tU6",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "rythm-paradise-groove",
+    "nombre": "Rythm Paradise Groove",
+    "portada": "https://img.youtube.com/vi/ZdMwqKiSeEE/hqdefault.jpg",
+    "descripcion": "¡Sigue el compás de la música en Rhythm Paradise Groove para Nintendo Switch! Descubre una animada colección de juegos rítmicos divertidísimos, algunos de los cuales amenizan las melodías del aclamado productor japonés Tsunku♂. Solamente hay una regla, y no cambia por muy estrambótica que sea la situación: ¡hay que pulsar los botones al compás de la melodía! Salta por aros, atrapa hortalizas al vuelo, blande un mazo y montones de cosas más.",
+    "fecha_texto": "2 JUL 2026",
+    "fecha_orden": "2026-07-02",
+    "generos": [
+      "Ritmo"
+    ],
+    "plataformas": [
+      "Nintendo Switch",
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/ZdMwqKiSeEE?si=EgMXhzMHD2mI1W1w",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "fugaz",
+    "nombre": "Fugaz",
+    "portada": "https://img.youtube.com/vi/bsomnmySQhs/hqdefault.jpg",
+    "descripcion": "Con sólo una flauta a tu disposición, toca canciones para resolver puzles. Explora un lugar oscuro buscando una salida antes de que la oscuridad se vuelva demasiado densa. En este inmersivo juego de horror psicológico, el conocimiento es clave para reunir todas las piezas.",
+    "fecha_texto": "7 JUL 2026",
+    "fecha_orden": "2026-07-07",
+    "generos": [
+      "Puzles",
+      "Aventura",
+      "Casuales",
+      "Terror psicológico",
+      "Misterio"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/bsomnmySQhs?si=PUXEWlwebAMQRRjF",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "assassin-s-creed-black-flag-resynced",
+    "nombre": "Assassin's Creed Black Flag Resynced",
+    "portada": "https://img.youtube.com/vi/U9EmVkQ5v54/hqdefault.jpg",
+    "descripcion": "Vuelve la emblemática aventura de piratas en solitario. Navega por el Caribe como Edward Kenway durante la edad de oro de la piratería en esta versión optimizada que presenta unos gráficos impresionantes, una mecánica de juego mejorada y nuevo contenido.",
+    "fecha_texto": "9 JUL 2026",
+    "fecha_orden": "2026-07-09",
+    "generos": [
+      "Acción y aventura",
+      "Asesinos",
+      "Piratas",
+      "Combate naval",
+      "3D"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/U9EmVkQ5v54?si=k49RhG-z_ifT5rg0",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "denshattack",
+    "nombre": "Denshattack!",
+    "portada": "https://img.youtube.com/vi/WEf0xr0GLgo/hqdefault.jpg",
+    "descripcion": "Haz trucos, flips y grinds con tu tren, derrota bandas rivales y enfréntate a una turbia megacorporación, mediante habilidad, velocidad y estilo. Reclama las vías en un trepidante viaje fuera de control por una colorida distopía japonesa.",
+    "fecha_texto": "15 JUL 2026",
+    "fecha_orden": "2026-07-15",
+    "generos": [
+      "Arcade",
+      "Plataformas 3D",
+      "Trenes",
+      "De ritmo rápido",
+      "Patinaje"
+    ],
+    "plataformas": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/WEf0xr0GLgo?si=G1CrFFS90_HnhiXY",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "the-mermaid-mask",
+    "nombre": "The Mermaid Mask",
+    "portada": "https://img.youtube.com/vi/Z9T_I7XTXDs/hqdefault.jpg",
+    "descripcion": "Un asesinato imposible en un cuarto cerrado: el cuerpo inerte del Capitán Mortuga yace ante un caldero en un extraño submarino lleno de sospechosos. Una aventura de apuntar y clic hecha a mano plagada de humor y rompecabezas. Resuelve este misterio de los creadores de Tangle Tower y Crow Country.",
+    "fecha_texto": "16 JUL 2026",
+    "fecha_orden": "2026-07-16",
+    "generos": [
+      "Detectives",
+      "Aventura",
+      "Puzles",
+      "Apuntar y clic",
+      "Ambientales"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "PC",
+      "Nintendo Switch",
+      "Nintendo Switch 2"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/Z9T_I7XTXDs?si=um5gFzgFrKU1QeKk",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "desktop-explorer",
+    "nombre": "Desktop Explorer",
+    "portada": "https://img.youtube.com/vi/qfpuWJIeCXo/hqdefault.jpg",
+    "descripcion": "Explora los perfiles abandonados de una vieja PC para desentrañar un misterio heredado. ¿Qué secretos se esconden en esta aventura de juegos crípticos y software obsoleto? ¿Quién usaba esta computadora antes? ¿Y qué les ocurrió?",
+    "fecha_texto": "17 JUL 2026",
+    "fecha_orden": "2026-07-17",
+    "generos": [
+      "Terror psicológico",
+      "Apuntar y clic",
+      "Puzles",
+      "Investigación"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/qfpuWJIeCXo?si=74LL8RIBd_Xi5Yue",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "splatoon-raiders",
+    "nombre": "Splatoon Raiders",
+    "portada": "https://img.youtube.com/vi/2mRf5VyQgGA/hqdefault.jpg",
+    "descripcion": "Liquida a hordas de enemigos en Splatoon Raiders, un nuevo título de Splatoon principalmente para un jugador que llegará en exclusiva a Nintendo Switch 2. Juega como mecanista y aúna fuerzas con el Clan Surimi, un trío de intrépidos músicos, mientras exploras las misteriosas islas Espiralita en busca de fabulosas riquezas.",
+    "fecha_texto": "23 JUL 2026",
+    "fecha_orden": "2026-07-23",
+    "generos": [
+      "Acción",
+      "Disparos"
+    ],
+    "plataformas": [
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/2mRf5VyQgGA?si=TPY_7pLKyuYtHmUG",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "halo-campaign-evolved",
+    "nombre": "Halo: Campaign Evolved",
+    "portada": "https://img.youtube.com/vi/0MxBFXH2a_U/hqdefault.jpg",
+    "descripcion": "Halo: Campaign Evolved es un remake fiel pero moderno de la campaña de Halo: Combat Evolved, renovado para el hardware de hoy. Vive el origen de la historia con gráficos en alta definición, controles mejorados, cinemáticas actualizadas y tres nuevas misiones adicionales.",
+    "fecha_texto": "28 JUL 2026",
+    "fecha_orden": "2026-07-28",
+    "generos": [
+      "Acción",
+      "FPS",
+      "Cooperativos",
+      "Un jugador",
+      "Disparos"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC",
+      "PlayStation 5"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/0MxBFXH2a_U?si=HXy8axd44SdwnB3l",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "beast-of-reincarnation",
+    "nombre": "Beast of Reincarnation",
+    "portada": "https://img.youtube.com/vi/3dw0ePZ8GLc/hqdefault.jpg",
+    "descripcion": "En un Japón posapocalíptico, la última esperanza de la humanidad está en manos de Emma y Koo, su compañero peludo. Vive una intensa aventura en «Beast of Reincarnation», un RPG de acción con combates técnicos y exigentes, protagonizado por una chica y su perro. ¿Qué habrá al final del camino?",
+    "fecha_texto": "3 AGO 2026",
+    "fecha_orden": "2026-08-03",
+    "generos": [
+      "Perros",
+      "Aventura",
+      "Rol de acción",
+      "Tipo «Dark Souls»",
+      "Rol"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/3dw0ePZ8GLc?si=c-g39ftHSPGWzVaO",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "rivage",
+    "nombre": "Rivage",
+    "portada": "https://img.youtube.com/vi/rSvl2bRcO0c/hqdefault.jpg",
+    "descripcion": "Rivage es un juego de aventuras y puzles que transcurre en ARES, una estación espacial atrapada en un extraño fenómeno. Cuando Miranda despierta y se da cuenta de que su tripulación ha desaparecido, trata de averiguar su paradero explorando los alrededores y resolviendo intrincados puzles.",
+    "fecha_texto": "13 AGO 2026",
+    "fecha_orden": "2026-08-13",
+    "generos": [
+      "Puzles",
+      "Ciencia ficción",
+      "Exploración",
+      "Primera persona"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/rSvl2bRcO0c?si=1KB_04oj5pS0olBw",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "the-sinking-city-2",
+    "nombre": "The Sinking City 2",
+    "portada": "https://img.youtube.com/vi/eoHI2lnvFBs/hqdefault.jpg",
+    "descripcion": "The Sinking City 2 se ambienta en los Felices años veinte en este juego de horror y supervivencia cargado de terrores lovecraftianos. Desafía a una deidad sobrenatural y explora los callejones inundados de Arkham mientras te acechan los muertos y sopesas una sola vida frente a toda una ciudad.",
+    "fecha_texto": "18 AGO 2026",
+    "fecha_orden": "2026-08-18",
+    "generos": [
+      "Lovecraftianos",
+      "Acción",
+      "Disparos en tercera persona",
+      "Terror"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/eoHI2lnvFBs?si=mj5npOgzQf_2JBMm",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "resonance-a-plague-tale-legacy",
+    "nombre": "Resonance: A Plague Tale Legacy",
+    "portada": "https://img.youtube.com/vi/1r6Cft3qe6I/hqdefault.jpg",
+    "descripcion": "Ponte en la piel de Sofía y vive la historia previa a la del galardonado A Plague Tale. Dirígete a la Isla del Minotauro, supera a tus enemigos, descubre antiguos secretos y enfréntate a una criatura mítica en el corazón de una terrible maldición.",
+    "fecha_texto": "27 AGO 2026",
+    "fecha_orden": "2026-08-27",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Acción y aventura",
+      "Puzles",
+      "Coloridos"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC",
+      "PlayStation 5"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/1r6Cft3qe6I?si=GHJ_wNrorBpn8-vN",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "orbitals",
+    "nombre": "Orbitals",
+    "portada": "https://img.youtube.com/vi/JF6zB1wekck/hqdefault.jpg",
+    "descripcion": "Llama a un amigo y sumergíos en Orbitals, una aventura cooperativa e intergaláctica de dos jugadores ambientada en un mundo de anime retro completamente nuevo. Formad equipo con Maki y Omura, dos exploradores inseparables con mucha más determinación que experiencia. Juntos os enfrentaréis a los peligros del espacio mientras buscáis ayuda para su estación base, que está atrapada en una tormenta cósmica supernatural y se está desmoronando.",
+    "fecha_texto": "3 SEP 2026",
+    "fecha_orden": "2026-09-03",
+    "generos": [
+      "Acción",
+      "Puzzle",
+      "Aventura"
+    ],
+    "plataformas": [
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/JF6zB1wekck?si=EeXzOn7OlzWtz3co",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "wolverine",
+    "nombre": "Wolverine",
+    "portada": "https://img.youtube.com/vi/OiBo_NgYI5Q/hqdefault.jpg",
+    "descripcion": "Marvel's Wolverine es una aventura llena de acción desarrollada por Insomniac Games, el aclamado estudio detrás de la serie Marvel's Spider-Man. Este título creado en colaboración con Marvel Games ofrece una nueva historia original basada en el legendario personaje de los cómics de Marvel.",
+    "fecha_texto": "15 SEP 2026",
+    "fecha_orden": "2026-09-15",
+    "generos": [
+      "Acción"
+    ],
+    "plataformas": [
+      "PlayStation 5"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/OiBo_NgYI5Q?si=t1pA-7psnuxPAw2K",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "fire-emblem-fortune-s-weave",
+    "nombre": "Fire Emblem: Fortune's Weave",
+    "portada": "https://img.youtube.com/vi/Rl5_C4sc5zk/hqdefault.jpg",
+    "descripcion": "Lucha para alzarte con la victoria y cumple tu deseo más ansiado en Fire Emblem: Fortune's Weave para Nintendo Switch 2. El Imperio dagdano ha prosperado bajo el dominio de los dioses durante 1500 años. En la capital, Dagsion, se celebran los Juegos Heroicos, a cuyo ganador se le concederá un deseo. A la ciudad han llegado poderosos luchadores de diversas regiones, dispuestos a participar en tamaña competición.",
+    "fecha_texto": "17 SEP 2026",
+    "fecha_orden": "2026-09-17",
+    "generos": [
+      "Rol"
+    ],
+    "plataformas": [
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/Rl5_C4sc5zk?si=n206Nt9iA2fie8O4",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "paperhead",
+    "nombre": "PAPERHEAD",
+    "portada": "https://img.youtube.com/vi/Z-zHLhZ9Isw/hqdefault.jpg",
+    "descripcion": "En este adorable mundo de cartón, algo se torció irremediablemente... Sírvete de un lápiz prodigioso, una escopeta de toda la vida y demás armas, así como de la fuerza de tus botas, para revelar la oscura verdad y descubrir por qué sangra... un trozo de cartón.",
+    "fecha_texto": "18 SEP 2026",
+    "fecha_orden": "2026-09-18",
+    "generos": [
+      "FPS",
+      "Disparos clásicos",
+      "De ritmo rápido",
+      "Sangrientos"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/Z-zHLhZ9Isw?si=jEM3AK9g2Xi4_yop",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "onimusha-way-of-the-sword",
+    "nombre": "Onimusha: Way of the Sword",
+    "portada": "https://img.youtube.com/vi/LNq35HHUtNc/hqdefault.jpg",
+    "descripcion": "Un samurái con un guantelete Oni hará frente a la amenaza de los Genma que se cierne sobre Kioto. Se enfrentará en combates cruentos y encarnizados, mientras busca su razón para luchar. ¿Qué destino le aguarda al final de su camino?",
+    "fecha_texto": "24 SEP 2026",
+    "fecha_orden": "2026-09-24",
+    "generos": [
+      "Acción",
+      "Acción y aventura",
+      "Un jugador",
+      "Rol de acción",
+      "Rol"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Nintendo Switch 2",
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/LNq35HHUtNc?si=QAj1mqgjgDChfdrw",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "control-resonant",
+    "nombre": "CONTROL Resonant",
+    "portada": "https://img.youtube.com/vi/nlt4o-mLxyM/hqdefault.jpg",
+    "descripcion": "Explora un Manhattan deformado al borde de la aniquilación sobrenatural en este emocionante RPG de acción y aventuras. Desata los extraordinarios poderes de Dylan Faden mientras lucha por su humanidad y nuestra supervivencia contra una amenaza cósmica que desafía a la realidad.",
+    "fecha_texto": "24 SEP 2026",
+    "fecha_orden": "2026-09-24",
+    "generos": [
+      "Rol de acción",
+      "Hack and slash",
+      "Buena trama",
+      "Ambientales"
+    ],
+    "plataformas": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/nlt4o-mLxyM?si=3jtfdAzznQnWHgzY",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "agx-gp",
+    "nombre": "AGX GP",
+    "portada": "https://img.youtube.com/vi/Rt3TIWgFvZc/hqdefault.jpg",
+    "descripcion": "AGX es un juego de carreras antigravedad increíblemente rápido. Su acción relámpago y su jugabilidad basada en habilidades extremas, ¡llevarán tus reacciones y habilidades al límite! ¡Bienvenido a AGX!",
+    "fecha_texto": "3.er trimestre del 2026",
+    "fecha_orden": "2026-09-28",
+    "generos": [
+      "Carreras",
+      "Conducción",
+      "Ciencia ficción",
+      "Arcade",
+      "JcJ",
+      "3D"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/Rt3TIWgFvZc?si=D5UIA0r7vJ_0KCGl",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "ascenders-beyond-the-peak",
+    "nombre": "Ascenders: Beyond the Peak",
+    "portada": "https://img.youtube.com/vi/3oCaNjoRNF8/hqdefault.jpg",
+    "descripcion": "ASCENDERS: BEYOND THE PEAK is a turn-based exploration roguelite where survival is vertical. Lead a team of alpinists to recover ancient artifacts from cursed peaks, prepare your expedition, evolve your climbers, master rope mechanics, and face H.P. Lovecraft-inspired horrors within the mountain.",
+    "fecha_texto": "3.er trimestre del 2026",
+    "fecha_orden": "2026-09-28",
+    "generos": [
+      "Roguelike",
+      "Roguelite",
+      "Tácticas por turnos",
+      "Exploración"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/3oCaNjoRNF8?si=xZjkYKnYFmBq9f5J",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "prelude-dark-pain",
+    "nombre": "Prelude Dark Pain",
+    "portada": "https://img.youtube.com/vi/0K7N9l4yiOY/hqdefault.jpg",
+    "descripcion": "Prelude Dark Pain es un RPG táctico por turnos ambientado en un mundo de fantasía oscuro. Asume el papel de Soren, un herrero local que tendrá que asumir el liderazgo de una revolución en un mundo destruido por la guerra, asolado por la peste y diezmado por una realidad desgarrada.",
+    "fecha_texto": "3.er trimestre del 2026",
+    "fecha_orden": "2026-09-28",
+    "generos": [
+      "Acceso anticipado",
+      "Estrategia por turnos",
+      "Tácticas por turnos"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X",
+      "Nintendo Switch"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/0K7N9l4yiOY?si=9hfYpJIVINJCnN4o",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "minecraft-dungeons-2",
+    "nombre": "Minecraft Dungeons 2",
+    "portada": "https://img.youtube.com/vi/VyZKYhM0Kv4/hqdefault.jpg",
+    "descripcion": "Suelta el pico, coge una espada y lánzate a una nueva aventura en Minecraft Dungeons II. ¡Reserva hoy y obtén 2 aspectos de héroe, la capa Perversa y la mascota Pollo perverso!",
+    "fecha_texto": "29 SEP 2026",
+    "fecha_orden": "2026-09-28",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Rol",
+      "Rol de acción",
+      "Acción y aventura"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC",
+      "PlayStation 5",
+      "Nintendo Switch 2",
+      "Nintendo Switch"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/VyZKYhM0Kv4?si=0O9cS90sSNNz7Lm2",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "t-w-i-r-l",
+    "nombre": "T.W.I.R.L.",
+    "portada": "https://img.youtube.com/vi/D_qXwYT3Ffc/hqdefault.jpg",
+    "descripcion": "Son las 3 de la madrugada en tu casa de la infancia. Todos duermen, menos tú. Sal sigilosamente de tu habitación para hacer lo que siempre haces - \"T.W.I.R.L.\" - lo que sea que eso signifique.",
+    "fecha_texto": "3.er trimestre del 2026",
+    "fecha_orden": "2026-09-28",
+    "generos": [
+      "Buena trama",
+      "Ambientales",
+      "Retro",
+      "Terror",
+      "Abstractos"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/D_qXwYT3Ffc?si=3hLZp4I-u1oeAFV6",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "rayman-legends-retold",
+    "nombre": "Rayman Legends Retold",
+    "portada": "https://img.youtube.com/vi/2_7BQ9hLGkk/hqdefault.jpg",
+    "descripcion": "Sumérgete en la audaz versión renovada del apreciado juego de plataformas, con nuevos gráficos y una historia reinterpretada. ¡Juega en solitario o en modo cooperativo local con hasta cuatro jugadores, explora un misterioso reino nuevo, disfruta de los nuevos escenarios musicales y mucho más!",
+    "fecha_texto": "1 OCT 2026",
+    "fecha_orden": "2026-10-01",
+    "generos": [
+      "Acción y aventura",
+      "Plataformas",
+      "Desplazamiento lateral"
+    ],
+    "plataformas": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/2_7BQ9hLGkk?si=dgApp8Oq3TaiImj8",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "end-of-abyss",
+    "nombre": "End of Abyss",
+    "portada": "https://img.youtube.com/vi/z1WYsu9ApLI/hqdefault.jpg",
+    "descripcion": "En las profundidades de un misterioso complejo subterráneo, la misión para investigar unas perturbaciones de origen desconocido se transforma en un aterrador descenso por un mundo destrozado y abandonado. Ponte en la piel de la joven técnica de combate Cel para investigar las verdades que se ocultan en las zonas en ruinas de las instalaciones y enfrentarte a las criaturas monstruosas que merodean en ellas.",
+    "fecha_texto": "1 OCT 2026",
+    "fecha_orden": "2026-10-01",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/z1WYsu9ApLI?si=DtHJt2L6CQ7-Js7m",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "don-t-fret",
+    "nombre": "Don't Fret",
+    "portada": "https://img.youtube.com/vi/bodsFo5y-Ao/hqdefault.jpg",
+    "descripcion": "Encarna a una guitarra consciente atrapada en una escuela de música pesadillesca. Escóndete, distrae y sobrevive al encuentro con criaturas horripilantes mientras te abres paso resolviendo puzles musicales y conectas recuerdos fragmentados para descubrir la verdad.",
+    "fecha_texto": "1 OCT 2026",
+    "fecha_orden": "2026-10-01",
+    "generos": [
+      "Terror psicológico",
+      "Terror",
+      "Puzles",
+      "Oscuros",
+      "Exploración"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/bodsFo5y-Ao?si=PrrxXsfAWnTwOD21",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "gears-of-war-e-day",
+    "nombre": "Gears of War: E-Day",
+    "portada": "https://img.youtube.com/vi/yAWz9IIQvt0/hqdefault.jpg",
+    "descripcion": "Vive el horror y la brutalidad del Día de la Emergencia. Catorce años antes del Gears of War original, únete a Marcus Fenix y Dominic Santiago en una apasionante historia de origen, cuando la Horda Locust irrumpe desde las profundidades, desatando una desesperada lucha por la supervivencia.",
+    "fecha_texto": "6 OCT 2026",
+    "fecha_orden": "2026-10-06",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Disparos",
+      "Sangrientos",
+      "Multijugador"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/yAWz9IIQvt0?si=QMTKvxKvrQZDk2TA",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "am-i-nima",
+    "nombre": "Am I Nima",
+    "portada": "https://img.youtube.com/vi/gPBGxC_XxEw/hqdefault.jpg",
+    "descripcion": "Am I Nima es un juego de terror psicológico en el que tendrás que convencer a tu madre de que eres su hija de verdad. Junta palabras en tu cerebro para expresarlas y lograr que ella confíe en ti.",
+    "fecha_texto": "8 OCT 2026",
+    "fecha_orden": "2026-10-08",
+    "generos": [
+      "Terror psicológico",
+      "Con mucho diálogo",
+      "Elige tu propia aventura"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/gPBGxC_XxEw?si=qA7M9eSFVQGR8VbD",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "valor-mortis",
+    "nombre": "Valor Mortis",
+    "portada": "https://img.youtube.com/vi/X3ItbfcUb3Y/hqdefault.jpg",
+    "descripcion": "Valor Mortis es un juego de acción para un jugador de estilo de Souls de los creadores de Ghostrunner. Sé un soldado napoleónico resucitado, usa poderes sobrenaturales, lucha con monstruos y desarma una conspiración que amenaza a la humanidad.",
+    "fecha_texto": "13 OCT 2026",
+    "fecha_orden": "2026-10-13",
+    "generos": [
+      "Tipo «Dark Souls»",
+      "Primera persona",
+      "Rol",
+      "Difíciles",
+      "Acción"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC",
+      "PlayStation 5"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/X3ItbfcUb3Y?si=yGR8hRgGDnO2Lk5h",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "castlevania-belmont-s-curse",
+    "nombre": "Castlevania: Belmont's Curse",
+    "portada": "https://img.youtube.com/vi/VqWamWdGm9Q/hqdefault.jpg",
+    "descripcion": "La maldición carmesí: ¿un futuro negro o brillante? La historia continúa 23 años después de Castlevania Dracula's Curse. Sigue a Rose Belmont en un flamante título de acción y exploración 2D de KONAMI, Evil Empire y Motion Twin.",
+    "fecha_texto": "14 OCT 2026",
+    "fecha_orden": "2026-10-14",
+    "generos": [
+      "Acción",
+      "Metroidvania",
+      "Rol",
+      "Rol de acción",
+      "Plataformas"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC",
+      "PlayStation 5"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/VqWamWdGm9Q?si=lQIe6FVOv1V7Rnip",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "tenebris-somnia",
+    "nombre": "Tenebris Somnia",
+    "portada": "https://img.youtube.com/vi/A_fQ_gNddbo/hqdefault.jpg",
+    "descripcion": "Tenebris Somnia es un Survival Horror 2D con cinemáticas filmadas con actores y escenografía real. Descubre una perturbadora historia resolviendo acertijos y enfrentándote a horribles criaturas.",
+    "fecha_texto": "16 OCT 2026",
+    "fecha_orden": "2026-10-16",
+    "generos": [
+      "Supervivencia / Terror",
+      "Aventura",
+      "Pixelados",
+      "Tercera persona"
+    ],
+    "plataformas": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/A_fQ_gNddbo?si=FVb7eQDI_JUXriLG",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "final-fantasy-resonance",
+    "nombre": "Final Fantasy Resonance",
+    "portada": "https://img.youtube.com/vi/wbsfQYI_IIY/hqdefault.jpg",
+    "descripcion": "Vuelve al mundo pixelado de FINAL FANTASY, que ha evolucionado a partir de sus raíces clásicas. Viaja con unos compañeros unidos por el destino y recurre a las visiones para que te ayuden a descubrir en el combate la verdad oculta tras una fuerza que amenaza con destruirlo todo.",
+    "fecha_texto": "22 OCT 2026",
+    "fecha_orden": "2026-10-22",
+    "generos": [
+      "Aventura",
+      "Rol"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "Nintendo Switch 2",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/wbsfQYI_IIY?si=pPZLvagkW18dgsCn",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "nintendo-switch-sports-resort",
+    "nombre": "Nintendo Switch Sports Resort",
+    "portada": "https://img.youtube.com/vi/XNcXNZJV6IE/hqdefault.jpg",
+    "descripcion": "Muévete con 12 disciplinas deportivas que hacen uso de intuitivos controles de movimiento en Nintendo Switch Sports Resort, que llega el 22 de octubre en exclusiva a Nintendo Switch 2. Crea un Sportsmate o personaje Mii y aventúrate por las distintas instalaciones del complejo deportivo de la Isla Wuhu.",
+    "fecha_texto": "22 OCT 2026",
+    "fecha_orden": "2026-10-22",
+    "generos": [
+      "Fiesta",
+      "Deportes"
+    ],
+    "plataformas": [
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/XNcXNZJV6IE?si=_BJXAUAKX4ppdOE",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "call-of-duty-modern-warfare-4",
+    "nombre": "Call of Duty®: Modern Warfare® 4",
+    "portada": "https://img.youtube.com/vi/tgZLc2UC2G8/hqdefault.jpg",
+    "descripcion": "La guerra estalla en la península de Corea cuando Corea del Norte lanza una invasión a gran escala que amenaza con desestabilizar el mundo en Call of Duty®: Modern Warfare® 4.",
+    "fecha_texto": "23 OCT 2026",
+    "fecha_orden": "2026-10-23",
+    "generos": [
+      "Acción",
+      "Disparos",
+      "FPS",
+      "Primera persona",
+      "JcJ",
+      "Militares"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC",
+      "PlayStation 5",
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/tgZLc2UC2G8?si=qWkScBe8L5PLlU9j",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "chivalware",
+    "nombre": "Chivalware",
+    "portada": "https://img.youtube.com/vi/AQJXRRUk1To/hqdefault.jpg",
+    "descripcion": "Chivalware es un frenético «roguelite» de acción y emparejar casillas. Pon a prueba tu coordinación y reflejos en tiempo real en un campo de batalla cuadriculado: esquiva ataques, empareja casillas para cargar las armas y ataca en el momento más oportuno.",
+    "fecha_texto": "4.º trimestre del 2026",
+    "fecha_orden": "2026-12-28",
+    "generos": [
+      "Roguelite",
+      "Arcade",
+      "Difíciles",
+      "Roguelike de acción",
+      "2D"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/AQJXRRUk1To?si=66VNfjmK2L-7sR6R",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "the-wolf-among-us-remastered",
+    "nombre": "The Wolf Among Us Remastered",
+    "portada": "https://img.youtube.com/vi/bgHk8FEAkis/hqdefault.jpg",
+    "descripcion": "A dark detective thriller where folklore is real, violence is chilling, and every choice has consequences.",
+    "fecha_texto": "4.º trimestre del 2026",
+    "fecha_orden": "2026-12-28",
+    "generos": [
+      "Buena trama",
+      "Las elecciones importan",
+      "Detectives",
+      "Misterio"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "Nintendo Switch 2",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/bgHk8FEAkis?si=yqOSn0xxVcMRKBmA",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "sea-of-remnants",
+    "nombre": "Sea of Remnants",
+    "portada": "https://img.youtube.com/vi/WD8PdV6IGq4/hqdefault.jpg",
+    "descripcion": "Sea of Remnants es un RPG de aventuras oceánicas en el que serás un marinero de madera en busca de sus recuerdos perdidos. Para ello, navega mares cambiantes, combate monstruos extraños, expande tu flota, conoce a más de 300 compañeros y moldea la ciudad pirata Orbtopia con tus decisiones.",
+    "fecha_texto": "2026",
+    "fecha_orden": "2026-12-31",
+    "generos": [
+      "Rol",
+      "Piratas",
+      "Combate por turnos",
+      "Aventura",
+      "Casuales"
+    ],
+    "plataformas": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/WD8PdV6IGq4?si=UxwV9DOrvhMaTimr",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "armatus",
+    "nombre": "Armatus",
+    "portada": "https://img.youtube.com/vi/-XZ9T3ur0Rw/hqdefault.jpg",
+    "descripcion": "ARMATUS es un juego de disparos en tercera persona estilo \"roguelite\" ambientado en una París infestada de demonios. Como último guerrero de una antigua orden, contarás con armas de fuego y poderes celestiales para explorar la ciudad en busca de un portal perdido hacia el cielo: el Portal Sin Sol.",
+    "fecha_texto": "2026",
+    "fecha_orden": "2026-12-31",
+    "generos": [
+      "Acción",
+      "Disparos",
+      "Roguelike de acción",
+      "Roguelite",
+      "Rol"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Nintendo Switch 2",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/-XZ9T3ur0Rw?si=fzT_1ZPb6P1gLSJ8",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "boto-labo",
+    "nombre": "Boto Labo",
+    "portada": "",
+    "descripcion": "¡Resuelve hasta 100 niveles Sokoban-Puzle con la ayuda de tus amigos robot! Ordénalos. Muévelos. Míralos moverse y... ¡llega hasta la bandera a tu estilo! ¡Tenemos gatos, perros y mucho más!",
+    "fecha_texto": "2026",
+    "fecha_orden": "2026-12-31",
+    "generos": [
+      "Sokoban",
+      "Casuales",
+      "Puzles",
+      "Arcade",
+      "Estrategia",
+      "2D"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://botolabo.com/",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "un-me",
+    "nombre": "UN:Me",
+    "portada": "https://img.youtube.com/vi/a9acB8d8c_4/hqdefault.jpg",
+    "descripcion": "UN:Me is an adventure game where you guide a girl harboring multiple souls within her body through an unsettling mental labyrinth, engaging in dialogue with each soul while making the harrowing choice of which to keep and which to erase in your escape attempt.",
+    "fecha_texto": "2026",
+    "fecha_orden": "2026-12-31",
+    "generos": [
+      "Aventura",
+      "Ficción interactiva",
+      "3D",
+      "Terror psicológico"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/a9acB8d8c_4?si=WEx5HJYRaPyJ0T1K",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "the-road-of-dust-and-sorrow",
+    "nombre": "The Road of Dust and Sorrow",
+    "portada": "https://img.youtube.com/vi/SzaUopg6nLY/hqdefault.jpg",
+    "descripcion": "The Road of Dust and Sorrow es un juego de terror inspirado en los clásicos de los años 90 hecho con arte pixelado que narra una historia llena de tensión. Sobrevive a un mundo en ruinas y protege lo que más te importa: tu hija.",
+    "fecha_texto": "2026",
+    "fecha_orden": "2026-12-31",
+    "generos": [
+      "Supervivencia / Terror",
+      "Pixelados",
+      "Protagonista femenina",
+      "2D"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "Nintendo Switch 2",
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/SzaUopg6nLY?si=CvdyJPDLD7xtg5Sc",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "maximum-thunderness",
+    "nombre": "Maximum Thunderness",
+    "portada": "https://img.youtube.com/vi/2yFTh_Z9cO4/hqdefault.jpg",
+    "descripcion": "An extreme response to minor problems. MAXIMUM THUNDERNESS is a roguelike sidescrolling co-op action game where you fight a space alien criminal invasion with different skills and abilities.",
+    "fecha_texto": "2026",
+    "fecha_orden": "2026-12-31",
+    "generos": [
+      "Acción",
+      "Roguelike de acción",
+      "Construcción de barajas",
+      "2D"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/2yFTh_Z9cO4?si=bMqBDz4yqtCzUns",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "the-legend-of-zelda-ocarina-of-time",
+    "nombre": "The Legend of Zelda: Ocarina of Time",
+    "portada": "https://img.youtube.com/vi/GLgCZ5FbkKo/hqdefault.jpg",
+    "descripcion": "The Legend of Zelda: Ocarina of Time renacerá en Nintendo Switch 2.",
+    "fecha_texto": "2026",
+    "fecha_orden": "2026-12-31",
+    "generos": [
+      "Aventura"
+    ],
+    "plataformas": [
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/GLgCZ5FbkKo?si=VThdVblJeAzjv2Fx",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "apple-crumble",
+    "nombre": "Apple Crumble",
+    "portada": "https://img.youtube.com/vi/hStzapj3ono/hqdefault.jpg",
+    "descripcion": "It's your grandma's 84th birthday party and nobody is trying to murder her. Stop suspecting your family members, and don't worry about the strange man in your bedroom. A new creepy-cozy mystery thriller from the creators of Duck Detective.",
+    "fecha_texto": "2026",
+    "fecha_orden": "2026-12-31",
+    "generos": [
+      "Aventura",
+      "Buena trama",
+      "Misterio",
+      "Simulador de caminar"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/hStzapj3ono?si=8EGJpALt4pRmd_yp",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "another-door",
+    "nombre": "Another Door",
+    "portada": "https://img.youtube.com/vi/ODPcDwyHdzQ/hqdefault.jpg",
+    "descripcion": "Another Door es un party game que combina el juego por turnos y el azar en una aventura de traición y amistad forzada. Oculta tus intenciones, engaña a tus oponentes y juega con tu suerte con el único objetivo de salvar tu alma...",
+    "fecha_texto": "2026",
+    "fecha_orden": "2026-12-31",
+    "generos": [
+      "Juegos de fiesta",
+      "Las elecciones importan",
+      "Roguelike",
+      "Indie"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/ODPcDwyHdzQ?si=7HlAA1uPMTyOiBxX",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "night-shift-1999",
+    "nombre": "Night Shift: 1999",
+    "portada": "https://img.youtube.com/vi/8_zVDUk-zEM/hqdefault.jpg",
+    "descripcion": "Balance work, vampirism and socialising as you explore Kings Cross, Sydney during the last year of the millennium. Keep a lid on your darkest desires and be rewarded with a deeper understanding of what it means to live again. Or don't — no one will stop you. You're a vampire, after all.",
+    "fecha_texto": "2026",
+    "fecha_orden": "2026-12-31",
+    "generos": [
+      "Vampiros",
+      "Novelas visuales",
+      "Buena trama",
+      "Finales múltiples"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/8_zVDUk-zEM?si=gjfGAvM52fSTt_e8",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "virtue-and-a-sledgehammer",
+    "nombre": "Virtue and a Sledgehammer",
+    "portada": "https://img.youtube.com/vi/b7XA1_Pca7U/hqdefault.jpg",
+    "descripcion": "Regresa a tu pueblo natal y destrúyelo con un mazo en este juego narrativo de exploración. Enfréntate a tu pasado en esta historia devastadora sobre sentir que ya no perteneces al lugar en el que te criaste.",
+    "fecha_texto": "2026",
+    "fecha_orden": "2026-12-31",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Acción y aventura",
+      "Simulador de caminar"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/b7XA1_Pca7U?si=5E0nYAd0Do1SNC9z",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "metro-2039",
+    "nombre": "METRO 2039",
+    "portada": "https://img.youtube.com/vi/mAUfp7tP2bg/hqdefault.jpg",
+    "descripcion": "METRO 2039 es la nueva entrega del emblemático juego de disparos en primera persona del aclamado desarrollador 4A Games. Viaja a las oscuras profundidades de un Moscú postapocalíptico en un desgarrador conflicto por el alma del Metro.",
+    "fecha_texto": "Febrero de 2027",
+    "fecha_orden": "2027-02-15",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Posapocalípticos",
+      "FPS",
+      "Disparos"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC",
+      "PlayStation 5"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/mAUfp7tP2bg?si=nvX-pPGmf9Spemhu",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "persona-4-revival",
+    "nombre": "Persona 4 Revival",
+    "portada": "https://img.youtube.com/vi/1osdiOAkBKc/hqdefault.jpg",
+    "descripcion": "Embárcate en una aventura JRPG sobrenatural. Resuelve misterios, forja vínculos y despierta tu Persona.",
+    "fecha_texto": "17 FEB 2027",
+    "fecha_orden": "2027-02-17",
+    "generos": [
+      "Rol japonés",
+      "Aventura",
+      "Rol",
+      "Anime",
+      "Buena trama"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/1osdiOAkBKc?si=d2jSt9KkWzLsLP_Y",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "fable",
+    "nombre": "Fable",
+    "portada": "https://img.youtube.com/vi/FuJjIgntefE/hqdefault.jpg",
+    "descripcion": "Conviértete en el héroe que quieras ser con un juego de rol y acción inmersivo en mundo abierto donde cada decisión afecta a tu trayectoria, la reputación lo es todo y los finales de cuento no están garantizados.",
+    "fecha_texto": "23 FEB 2027",
+    "fecha_orden": "2027-02-23",
+    "generos": [
+      "Rol",
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Un jugador",
+      "LGBTQ+"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC",
+      "PlayStation 5"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/FuJjIgntefE?si=DXmE_1zwvia7Qr6P",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "ill",
+    "nombre": "ILL",
+    "portada": "https://img.youtube.com/vi/TFHcVsPNbsY/hqdefault.jpg",
+    "descripcion": "Un juego realista de terror y acción en primera persona. Te encuentras en un lúgubre fuerte, capturado por una misteriosa entidad, en un ambiente de horror que cuenta con monstruos impredecibles, un sistema de desmembramiento y física realista.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Terror",
+      "Acción",
+      "Disparos",
+      "Primera persona",
+      "Supervivencia"
+    ],
+    "plataformas": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/TFHcVsPNbsY?si=Nm9F_awNKUq7sbtY",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "the-lost-wild",
+    "nombre": "The Lost Wild",
+    "portada": "https://img.youtube.com/vi/nlt4o-mLxyM/hqdefault.jpg",
+    "descripcion": "El miedo es primitivo. Adéntrate en esta experiencia de terror, supervivencia y evasión mientras te enfrentas a los cazadores más fieros: los dinosaurios. Explora instalaciones abandonadas, recoge recursos, lucha por sobrevivir y resuelve el misterio que oculta la isla.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Dinosaurios",
+      "Supervivencia / Terror",
+      "Exploración",
+      "Terror"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/nlt4o-mLxyM?si=f6ZSWeygZuBek_gC",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "wtf-waifu-tactical-force",
+    "nombre": "WTF - Waifu Tactical Force",
+    "portada": "https://img.youtube.com/vi/nRrLvgS3l8I/hqdefault.jpg",
+    "descripcion": "Un FPS multijugador de alta movilidad con estética anime única. Partidas rápidas y verticales con opciones de movimiento versátiles. Progresión profunda: consigue personajes y botín en combate para construir la Mother Base definitiva. Forja lazos con tu equipo y domina en PvP o PvE.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Acceso anticipado",
+      "Anime",
+      "FPS",
+      "Protagonista femenina"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Playtest disponible",
+    "trailer": "https://youtu.be/nRrLvgS3l8I?si=RTvGCKA1quu7LO87",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "muramasa-revenant-blades",
+    "nombre": "Muramasa: Revenant Blades",
+    "portada": "https://img.youtube.com/vi/1bMSlX-jV7s/hqdefault.jpg",
+    "descripcion": "Vanillaware y Marvelous presentan este extraordinario RPG de acción. Adéntrate en un mundo de espíritus atormentados y espadas demoniacas. Las historias de seis protagonistas legendarios de la Era Genroku de Japón, cada uno de ellos con un estilo de lucha único, están a punto de comenzar.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Acción",
+      "Ninjas",
+      "Samuráis",
+      "Buena trama",
+      "Rol de acción"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "PC",
+      "Nintendo Switch",
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/1bMSlX-jV7s?si=xUDmZ8xmYx6wnSc5",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "virtua-fighters-crossroads",
+    "nombre": "Virtua Fighters Crossroads",
+    "portada": "https://img.youtube.com/vi/qBsUV1dyYFo/hqdefault.jpg",
+    "descripcion": "Virtua Fighter Crossroads (también conocido como Virtua Fighter 6) es una audaz reinvención de la legendaria franquicia de lucha en 3D de Sega. Desarrollado por RGG Studio, el título destaca por introducir una profunda narrativa cinematográfica y un modo historia para un jugador, marcando una evolución histórica para la saga.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Acción"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/qBsUV1dyYFo?si=i5CrfdVBkbXTgvFI",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "exodus",
+    "nombre": "EXODUS",
+    "portada": "https://img.youtube.com/vi/ye14LA-FJnY/hqdefault.jpg",
+    "descripcion": "EXODUS™ es un juego de rol de acción y aventuras de ciencia ficción en que te convertirás en Itinerante y liderarás la lucha contra los Celestials. Descubre cómo ha evolucionado la humanidad, explora mundos impresionantes y desafía al tiempo para forjar el futuro de los humanos.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Con mucho diálogo",
+      "Rol",
+      "Un jugador",
+      "Ciencia ficción"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/ye14LA-FJnY?si=WTh15S_pzVEVDQiJ",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "final-fantasy-vii-revelation",
+    "nombre": "FINAL FANTASY VII REVELATION",
+    "portada": "https://img.youtube.com/vi/PH3ox5krci8/hqdefault.jpg",
+    "descripcion": "Ha comenzado la batalla final que decidirá el destino del mundo. Surca los cielos, decide el rumbo y enfréntate a Sefirot por última vez con la ayuda de tus aliados. Un enorme planeta te espera. Todo conduce hasta aquí.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Rol",
+      "Acción",
+      "Aventura",
+      "Rol de acción",
+      "Rol japonés",
+      "3D"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Nintendo Switch 2",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/PH3ox5krci8?si=AjESsLDEBCmk9UB1",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "until-dawn-2",
+    "nombre": "Until Dawn 2",
+    "portada": "https://img.youtube.com/vi/MtlJIEOuebo/hqdefault.jpg",
+    "descripcion": "¿Listo para arriesgarlo todo por likes? Únete a un equipo de ambiciosos cazadores de fantasmas en su búsqueda del próximo éxito viral en una isla remota, acosada por la escalofriante historia de demonios y fenómenos fantasmales que cuenta una mujer. Cuando el relato comience a manifestarse de forma aterradora, el grupo tendrá que luchar contra sus propios miedos —y contra cualquier otro obstáculo— para escapar con vida de la isla. Sus vidas están en tus manos. Cada decisión cuenta.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Las elecciones importan"
+    ],
+    "plataformas": [
+      "PlayStation 5"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/MtlJIEOuebo?si=zhmhWvEeY4xXt1Vl",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "kingdom-hearts-iv",
+    "nombre": "Kingdom Hearts IV",
+    "portada": "https://img.youtube.com/vi/j151ek2rYs0/hqdefault.jpg",
+    "descripcion": "Kingdom Hearts IV es un próximo juego de rol de acción de Square Enix. Será la decimoquinta entrega de la serie Kingdom Hearts, que dará inicio al arco argumental \"El Maestro Perdido\". Ambientado después de los acontecimientos de Kingdom Hearts III y Kingdom Hearts: Melody of Memory, el protagonista Sora regresa tras quedar atrapado en el mundo realista de Quadratum, mientras que sus compañeros el Pato Donald y Goofy intentan encontrarlo y rescatarlo.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Acción",
+      "Rol",
+      "Aventura",
+      "Rol japonés",
+      "Gran banda sonora"
+    ],
+    "plataformas": [
+      "Nintendo Switch 2",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/j151ek2rYs0?si=NVjGB7kl9lX7idBu",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "the-wolf-among-us-2",
+    "nombre": "The Wolf Among Us 2",
+    "portada": "https://img.youtube.com/vi/A94dI9KmTiQ/hqdefault.jpg",
+    "descripcion": "A neon-noir thriller where Bigby Wolf must confront the monster within that threatens the future of Fabletown.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Aventura",
+      "Casuales",
+      "Un jugador",
+      "Acción y aventura",
+      "Noir"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "Nintendo Switch 2",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/A94dI9KmTiQ?si=dRuWGah81oMl1xbt",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "crazy-taxi-world-tour",
+    "nombre": "Crazy Taxi: World Tour",
+    "portada": "https://img.youtube.com/vi/Lz-5emVM4Ow/hqdefault.jpg",
+    "descripcion": "Juega como Axel en una nueva y trepidante aventura para intentar recuperar su taxi robado y perseguir a una organización misteriosa que está causando el caos por todo el mundo. Corre por lugares emblemáticos y enfréntate a misiones extremas en el esperado regreso de esta clásica saga.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Aventura",
+      "Carreras",
+      "Acción",
+      "Acción y aventura",
+      "JcJ",
+      "3D"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC",
+      "PlayStation 5",
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/Lz-5emVM4Ow?si=SRxW5APWzqUw6-KW",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "resident-evil-veronica",
+    "nombre": "Resident Evil Verónica",
+    "portada": "https://img.youtube.com/vi/f-HSqQjowBg/hqdefault.jpg",
+    "descripcion": "Resident Evil Veronica es una nueva versión de Resident Evil Code: Veronica del año 2000. En 2027, la locura y la intriga, el amor y el odio se combinan para crear una nueva y escalofriante entrega de survival horror.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Acción",
+      "Supervivencia / Terror",
+      "Disparos en tercera persona"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC",
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/f-HSqQjowBg?si=DQWdS3CAGUq8D-0T",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "blood-message",
+    "nombre": "Blood Message",
+    "portada": "https://img.youtube.com/vi/dFrvyItQgFo/hqdefault.jpg",
+    "descripcion": "Blood Message es un próximo juego de acción y aventura desarrollado por 24 Entertainment Lin'an y publicado por NetEase Games. El jugador asume el papel de Pei Changguan, quien se enfrenta a la agitación del levantamiento de Shazhou y se embarca en un peligroso viaje a través de Asia Oriental y Central para entregar un mensaje crucial a Chang'an, la capital del Imperio Tang.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "plataformas": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/dFrvyItQgFo?si=qNDBC0Gi-PIsukLQ",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "magicians-the-devil-s-deal",
+    "nombre": "Magicians: The Devil's Deal",
+    "portada": "https://img.youtube.com/vi/L0i70gRvf7M/hqdefault.jpg",
+    "descripcion": "Magicians: The Devil's Deal es un juego narrativo de disparos en el que la magia se vuelve real. Ponte en la piel de Jacob Menteuro, un ilusionista caído que hace un pacto con el diablo y desciende al infierno. Domina trucos letales, roba poderes a tus rivales y huye de Theatreland.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Acción",
+      "Un jugador",
+      "Primera persona",
+      "Buena trama",
+      "FPS"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC",
+      "PlayStation 5"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/L0i70gRvf7M?si=DOFcGFkzOwdEx-bm",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "detective-turner-if-looks-could-kill",
+    "nombre": "Detective Turner: If Looks Could Kill",
+    "portada": "https://img.youtube.com/vi/rqZzs4vn1G8/hqdefault.jpg",
+    "descripcion": "A text-driven noir murder mystery where you literally read the room. Search for clues in the text, photograph evidence, and interrogate suspects to solve the murder of fashion icon Margot Voss.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Detectives",
+      "Investigación",
+      "Misterio",
+      "Apuntar y clic",
+      "Noir"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/rqZzs4vn1G8?si=5zTvnFM6Vn096O4V",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "xenoblade-genesis",
+    "nombre": "Xenoblade Genesis",
+    "portada": "https://img.youtube.com/vi/_oOib9ILoUc/hqdefault.jpg",
+    "descripcion": "Todo está a punto de comenzar de nuevo... Xenoblade Genesis llegará a Nintendo Switch 2 en 2027.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Acción",
+      "Rol de acción"
+    ],
+    "plataformas": [
+      "Nintendo Switch 2"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/_oOib9ILoUc?si=Yqva9a_YX5bAnV4Q",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "perceptum",
+    "nombre": "Perceptum",
+    "portada": "https://img.youtube.com/vi/75f8YePdTK0/hqdefault.jpg",
+    "descripcion": "Un juego de terror psicológico en el que juegas como una médium investigando la desaparición de una familia. Explora una casa con una atmósfera opresiva, cierra los ojos para escuchar el más allá, usa tu espejo para ver lo invisible y descubre la verdad oculta entre sus paredes.",
+    "fecha_texto": "2027",
+    "fecha_orden": "2027-12-31",
+    "generos": [
+      "Terror psicológico",
+      "Ambientales",
+      "Misterio",
+      "Oscuros",
+      "Puzles"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Playtest disponible",
+    "trailer": "https://youtu.be/75f8YePdTK0?si=R3i6wt2Az78D9soi",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "deadroot",
+    "nombre": "DeadRoot",
+    "portada": "https://img.youtube.com/vi/FCgCL3s_rUY/hqdefault.jpg",
+    "descripcion": "DeadRoot is a barbaric medieval action-adventure set in a bug-sized world of underground dungeons and towering ruins. Splatter bug guts and slay colossal bosses as Kitt, a lone snail warrior, who must draw his sword against overwhelming odds.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Combate",
+      "3D",
+      "Metroidvania",
+      "Acción",
+      "Exploración",
+      "Rol"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/FCgCL3s_rUY?si=XTByVJ88lz0S03rd",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "kumarn-the-wandering-spirit",
+    "nombre": "Kumarn: The Wandering Spirit",
+    "portada": "https://img.youtube.com/vi/eWjwOW1GeSQ/hqdefault.jpg",
+    "descripcion": "A haunting Thai horror adventure. Play as Kumarn, a wandering spirit lost in a world of terrifying folklore and vengeful ghosts. With only his courage and loyal zebra, he must face his fears and search for a place called home.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Terror",
+      "Aventura",
+      "Un jugador",
+      "Plataformas de puzles",
+      "2.5D"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/eWjwOW1GeSQ?si=dokoGMlSaK4eDRa1",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "toada-brava",
+    "nombre": "Toada Brava",
+    "portada": "https://img.youtube.com/vi/6adtv6q0mqk/hqdefault.jpg",
+    "descripcion": "Toada Brava is a fully hand-drawn 2D top-down RPG. Battle your way through the Santacrúz Dungeons and help Kako find his mom, while helping the revolution!",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Aventura",
+      "Rol",
+      "Rol estratégico",
+      "Estrategia por turnos",
+      "2D"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/6adtv6q0mqk?si=D-4F_HYEXyg16QmC",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "mr-magpie-s-harmless-card-game",
+    "nombre": "Mr Magpie's Harmless Card Game",
+    "portada": "https://img.youtube.com/vi/g1aUN7cKt_Q/hqdefault.jpg",
+    "descripcion": "Un juego de construcción de barajas de terror corporativo y surrealista en el que te juegas la vida por dinero, evitas las letales cartas JERRY y \"maximizas sinergias\" para ascender en la escala laboral de esta pesadilla de oficina que dirige el Sr. Magpie.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Juegos de cartas",
+      "Terror",
+      "Estrategia",
+      "3D",
+      "Apuestas",
+      "2D"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/g1aUN7cKt_Q?si=S13Uf9MByFC06Lmy",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "sigils-of-nightfall",
+    "nombre": "Sigils of Nightfall",
+    "portada": "https://img.youtube.com/vi/H-Fl3G7gT0g/hqdefault.jpg",
+    "descripcion": "Sigils of Nightfall es un roguelike deckbuilder que combina exploración de mazmorras con elementos del galardonado RPG Mörk Borg. Embárcate en un viaje oscuro, mejora a tu personaje y sobrevive a los horrores que desatarán el fin del mundo.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Constructor de barajas Roguelike",
+      "Combate con cartas",
+      "Rol"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/H-Fl3G7gT0g?si=_T-Ag3iERKQSKrtf",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "carcass-clad",
+    "nombre": "Carcass Clad",
+    "portada": "https://img.youtube.com/vi/96d4Y4P-rSc/hqdefault.jpg",
+    "descripcion": "Un juego cooperativo de terror, tanques y vísceras de los creadores de MOUTHWASHING. Conduce el Yksiö con controles físicos y un equipo de 3 personas. El combustible es limitado; la munición, escasa. El santo de la ciudad, enterrado hace tiempo, regresa profanado y bañado en oro.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Supervivencia / Terror",
+      "Cooperativos",
+      "Tanques",
+      "Ambientales"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/96d4Y4P-rSc?si=Sa55A7bL6DkSczmN",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "alien-isolation-2",
+    "nombre": "Alien: Isolation 2",
+    "portada": "https://img.youtube.com/vi/95ideb_t0So/hqdefault.jpg",
+    "descripcion": "Enfréntate a tus peores miedos en la esperada secuela del galardonado juego de terror y supervivencia, Alien: Isolation.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Supervivencia / Terror",
+      "Sigilo",
+      "Ambientales",
+      "Supervivencia"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/95ideb_t0So?si=1pTslI4OhbWJTtmT",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "stellar-blade-blood-rain",
+    "nombre": "Stellar Blade: Blood Rain",
+    "portada": "https://img.youtube.com/vi/4aVoaSixc0E/hqdefault.jpg",
+    "descripcion": "Stellar Blade: Blood Rain es un próximo juego de acción y aventura desarrollado y publicado por Shift Up. Es una secuela directa de Stellar Blade (2024). Fue anunciado durante el Summer Games Fest 2026 con un tráiler de presentación. Será autopublicado, a diferencia del primer juego que se publicó como un título de PlayStation y luego se portó a PC. Sigue a la protagonista Evie y está ambientado algún tiempo después de los eventos del primer juego.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Acción"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/4aVoaSixc0E?si=wpwIPSHgNOBTe6_L",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "out-fishing",
+    "nombre": "Out Fishing",
+    "portada": "https://img.youtube.com/vi/CkF4ogShcpI/hqdefault.jpg",
+    "descripcion": "Pesca, vende, mejora tu equipo y construye tu campamento en este juego de pesca y horror en primera persona. Explora un bosque encantado y descubre pistas sobre una desaparición olvidada cerca del lago, pero regresa antes del anochecer, ya que el peligro acecha bajo el agua.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Pesca",
+      "Terror",
+      "Primera persona",
+      "Buena trama",
+      "FPS"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/CkF4ogShcpI?si=J2QoxX8xPK4-p5Tf",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "brokenlore-don-t-lie",
+    "nombre": "BrokenLore: DON'T LIE",
+    "portada": "https://img.youtube.com/vi/oD1j1DgvgJY/hqdefault.jpg",
+    "descripcion": "BrokenLore: DON'T LIE es un spin-off de terror psicológico de DON'T WATCH, donde las mentiras, la medicación y los vínculos frágiles difuminan la línea entre la realidad y la pesadilla.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Objetos ocultos",
+      "Protagonista femenina",
+      "Acción",
+      "3D",
+      "Noir"
+    ],
+    "plataformas": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/oD1j1DgvgJY?si=ShcS8QaT8es0ZXB6",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "prove-you-re-human",
+    "nombre": "Prove You're Human",
+    "portada": "https://img.youtube.com/vi/moSp6JsCbw0/hqdefault.jpg",
+    "descripcion": "Una IA se atreve a soñar con que es humana. Se te ha contratado para meterla en vereda.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Buena trama",
+      "Terror psicológico",
+      "Ciencia ficción",
+      "Terror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/moSp6JsCbw0?si=EV1sMxXaEd4Lrrps",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "tmnt-the-last-ronin",
+    "nombre": "TMNT: The Last Ronin",
+    "portada": "https://img.youtube.com/vi/8NX3iz_aoEg/hqdefault.jpg",
+    "descripcion": "Un juego de las Tortugas Ninja basado en el aclamado cómic Teenage Mutant Ninja Turtles: The Last Ronin, que presenta una narrativa oscura en un futuro distópico en el que solo queda viva una Tortuga Ninja, el último ronin, que emprende una misión de venganza contra el poderoso y tiránico señor que controla Nueva York.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Acción"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/8NX3iz_aoEg?si=gPvAtkha0UbSG6Ir",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "knuckle-paradise",
+    "nombre": "Knuckle Paradise ®",
+    "portada": "https://img.youtube.com/vi/IHED2poeqdU/hqdefault.jpg",
+    "descripcion": "Acción, píxeles y combos a tutiplén con Jane (boxeadora retirada) y su inseparable Cocotte (una guerrera… ¿gallinácea?). Reparte a diestro y siniestro. Aprende combos de un pirata. Reparte más fuerte aún. Sube de nivel a tu gallinita. Busca a quienes te secuestraron y dales para el pelo.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Un jugador",
+      "Luchador espectacular",
+      "2D"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/IHED2poeqdU?si=ZV4kPf-_WYyUeahP",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "godstv",
+    "nombre": "GodsTV",
+    "portada": "https://img.youtube.com/vi/PsMvWZYu6Rs/hqdefault.jpg",
+    "descripcion": "Únete al estrafalario elenco de un retorcido programa de concursos televisivo en los confines del multiverso y lucha, en solitario o en cooperativo, para alcanzar la Mega Stardom galáctica en este Action RPG con elementos rogue-like.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Acción",
+      "Ciberpunk",
+      "Parodias",
+      "Roguelike de acción",
+      "Anime"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/PsMvWZYu6Rs?si=wloTQE5Wmu1r1hiS",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "gunny-ascend",
+    "nombre": "Gunny Ascend",
+    "portada": "https://img.youtube.com/vi/GQendH6rPRk/hqdefault.jpg",
+    "descripcion": "A Roguelite Block-Stacking Adventure. Stack, Adapt, Escape!! Gunny Ascend is a high-speed puzzle game where every falling block is a chance to escape. Build clever loadouts, adapt to ever-changing hazards, and outsmart the Collectors in this chaotic, dimension-hopping adventure.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Puzles",
+      "Roguelite",
+      "Acción",
+      "Plataformas de puzles",
+      "Arcade"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/GQendH6rPRk?si=hEyHtAnHPBmSQSTL",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "croak-and-solve",
+    "nombre": "Croak and Solve",
+    "portada": "https://img.youtube.com/vi/YiXok3aKDEY/hqdefault.jpg",
+    "descripcion": "Acompaña a Burst mientras resuelve el caos en Sorrentine. Con tus ancas al ritmo del jazz y mucha mala suerte, tendrás que sumergirte en este divertido mundo pixel art con elementos RPG, para resolver tus aventuras al más puro estilo de los mejores detectives que ahora son leyenda.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Aventura",
+      "Un jugador",
+      "Ficción interactiva",
+      "Puzles",
+      "Noir"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/YiXok3aKDEY?si=X_LLHep50TarnGCq",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "raji-kaliyuga",
+    "nombre": "Raji: Kaliyuga",
+    "portada": "https://img.youtube.com/vi/V5TMzD6Ngnk/hqdefault.jpg",
+    "descripcion": "Six years after the great war, destiny bleeds into prophecy as gods and mortals blur. Raji, the warrior of faith, and Darsh, the dreamwalker, face Mahabalasura's wrath as he tears open heaven's gates, unleashing Kaliyuga-an age where every choice can unmake the universe.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Un jugador",
+      "Acción y aventura",
+      "Tercera persona",
+      "Mitología"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/V5TMzD6Ngnk?si=bAXpxPfjFx1Ej-2a",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "hollow-stories-lockdown",
+    "nombre": "Hollow Stories: Lockdown",
+    "portada": "https://img.youtube.com/vi/2RGSbLsKVZI/hqdefault.jpg",
+    "descripcion": "Un juego noir de terror de supervivencia neorretro donde exploras, resuelves puzles y luchas por sobrevivir en una ciudad dominada por la corrupción y cultos.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Terror",
+      "Terror psicológico",
+      "Supervivencia / Terror",
+      "Suspense"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/2RGSbLsKVZI?si=mzfi4svw8M-Kud3q",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "the-outer-frame",
+    "nombre": "The Outer Frame",
+    "portada": "https://img.youtube.com/vi/WD1mint74og/hqdefault.jpg",
+    "descripcion": "Dual role as detective and fixer, commanding the perfect cover-up from your desk. Intercept calls, stay ahead of the media, gather intel, and decide the fate of everyone involved before the masses catch on. Try again and again to reshape the narrative in this choice-driven mystery. Or you are fired.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Apuntar y clic",
+      "Buena trama",
+      "Las elecciones importan",
+      "Terror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/WD1mint74og?si=8l3npUrivqjHA6l1",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "echograph",
+    "nombre": "Echograph",
+    "portada": "https://img.youtube.com/vi/nSk3Yh8Gr1c/hqdefault.jpg",
+    "descripcion": "Photograph ghosts, crack environmental puzzles, manage limited resources, and unravel the mystery behind a generational family curse in this classic survival horror experience.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Supervivencia / Terror",
+      "Protagonista femenina",
+      "TerrorRetro"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/nSk3Yh8Gr1c?si=QnfEBP-NClKEJRzI",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "edwin-earstwhile-medical-examiner",
+    "nombre": "Edwin Earstwhile: Medical Examiner",
+    "portada": "https://img.youtube.com/vi/aMF_1tXd1h4/hqdefault.jpg",
+    "descripcion": "A medical detective game set in the late Victorian era. Uncover the perpetrators behind an assortment of grizzly murders by examining meticulously hand-animated cadavers.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Detectives",
+      "Puzles",
+      "Novelas visuales",
+      "Tutoriales",
+      "Terror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/aMF_1tXd1h4?si=5Oi4PBUx1b5w-vWR",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "headcutter",
+    "nombre": "HEADCUTTER",
+    "portada": "https://img.youtube.com/vi/URBFACopKWg/hqdefault.jpg",
+    "descripcion": "HEADCUTTER es un fps Spaghetti Western Sci-Fi con combate brutal, entornos destruibles y mucho gore. Eres un cazarrecompensas espacial, rastrea objetivos, explora mapas destruibles con varias rutas, participa de intensos tiroteos y corta cabezas para recibir tu paga. ¡Sal y consigue algunas cabezas!",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "FPS",
+      "Disparos clásicos",
+      "Vieja escuela",
+      "Acción",
+      "Disparos"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/URBFACopKWg?si=iMgH64M3tOVEC7Cf",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "ghost-writer",
+    "nombre": "Ghost Writer",
+    "portada": "https://img.youtube.com/vi/RKP9qpff3EU/hqdefault.jpg",
+    "descripcion": "A whimsical desktop idle focus game. The perfect desktop work companion if you require a little tired ghost typing away at a typewriter",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Compañero de escritorio",
+      "Mecanografía",
+      "Casuales",
+      "Indie"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/RKP9qpff3EU?si=t_-XhCT_pzGKALlF",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "bashful-adoration",
+    "nombre": "Bashful Adoration",
+    "portada": "https://img.youtube.com/vi/Uf6z4uw4QQU/hqdefault.jpg",
+    "descripcion": "Bashful Adoration is a Kinetic 3D Platformer starring a cast of four competitive witches who are all in love with the same crush! Featuring Bombastic Combat, Expressive Movement Mechanics and a light-hearted Narrative with themes of love, rivalry and friendship.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Plataformas 3D",
+      "Plataformas",
+      "Aventura",
+      "Magia",
+      "Acción"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/Uf6z4uw4QQU?si=gOlm-gLcZD-lsKKS",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "cordura",
+    "nombre": "CORDURA",
+    "portada": "https://img.youtube.com/vi/5DmA_exayrw/hqdefault.jpg",
+    "descripcion": "CORDURA es un horror psicológico cooperativo online para 4 jugadores donde la cordura es tu recurso más escaso. Adentraos juntos en laberintos victorianos procedimentales que cambian constantemente. Si pierdes la cordura, la Noche imitará a tu equipo para alimentar tu paranoia. Escapa y sobrevive.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Cooperativos en línea",
+      "Terror",
+      "Terror psicológico",
+      "JcE"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/5DmA_exayrw?si=fQ3ZrSfYCjlKfDzo",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "tiebreakers",
+    "nombre": "Tiebreakers",
+    "portada": "https://img.youtube.com/vi/bFv1zObLItc/hqdefault.jpg",
+    "descripcion": "A SHONEN RUN N' GUN! Show your skills and save the world. Make your shots explosive. Make your parry intense. Even when your inner weaknesses come up, only you can do it.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Acción",
+      "Disparos",
+      "Deportes",
+      "Coloridos",
+      "2D",
+      "Difíciles"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/bFv1zObLItc?si=y-Y4wWynew6Mtvw6",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "catechesis",
+    "nombre": "Catechesis",
+    "portada": "https://img.youtube.com/vi/k856xpDkDKg/hqdefault.jpg",
+    "descripcion": "Acepta la oscuridad siendo un monaguillo poseído por demonios en este RPG de terror. Explora la ciudad, lucha contra demonios, mejora tus armas y embárcate en un viaje inolvidable con personajes únicos y escenas de estilo anime.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Buena trama",
+      "Terror psicológico",
+      "Pixelados",
+      "Banda sonora"
+    ],
+    "plataformas": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/k856xpDkDKg?si=Zpg8O8xvi6kwJI1o",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "work-work-work",
+    "nombre": "WORK WORK WORK",
+    "portada": "https://img.youtube.com/vi/p5P8pa2l758/hqdefault.jpg",
+    "descripcion": "WORK. DIE. REPEAT. Can you break out from the sinister cycle?",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Aventura",
+      "Terror psicológico",
+      "Ficción interactiva",
+      "Puzles"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/p5P8pa2l758?si=FABZPdNjkIwBIPKE",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "happy-bastards",
+    "nombre": "Happy Bastards",
+    "portada": "https://img.youtube.com/vi/77IkjUm_xGk/hqdefault.jpg",
+    "descripcion": "La virtud es de pringados, pero la fama no tiene precio. Reúne mercenarios canallas y lábrate un nombre mediante aventuras desenfrenadas, sangrientos combates, saqueos y tratos sucios. Elige tus batallas y a tus aliados en este irreverente juego de rol táctico de mundo abierto.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Rol",
+      "Estrategia",
+      "Rol estratégico",
+      "Estrategia por turnos"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/77IkjUm_xGk?si=IwZm-4kRkwGfzVxs",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "oh-my-doug",
+    "nombre": "Oh, My Doug!",
+    "portada": "https://img.youtube.com/vi/XKVg0FCzBjY/hqdefault.jpg",
+    "descripcion": "When Doug decides to get in shape, the tiny inhabitants inside him think the world is ending. Explore, fight, and shoot your way through the body of a middle-aged man trying to get rid of you.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Acción y aventura",
+      "Acción",
+      "Metroidvania",
+      "Dibujados a mano"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/XKVg0FCzBjY?si=Y4BzwGqdpUWzHfcy",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "moonlight-pale",
+    "nombre": "Moonlight Pale",
+    "portada": "https://img.youtube.com/vi/mMd3P577SGM/hqdefault.jpg",
+    "descripcion": "Juliette sigue al fantasma de su gato fallecido hasta una pesadilla en la que tiene que luchar y resolver acertijos a lo largo de pasillos inquietantemente familiares, mientras intenta sobrevivir y ayudar al resto de las chicas que están atrapadas allí. Descubre los pecados enterrados bajo el Seminario Femenino de Santa Birgitta.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Supervivencia / Terror",
+      "2D",
+      "Acción y aventura",
+      "Aventura"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/mMd3P577SGM?si=ajkyxaHN9N8vRzyd",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "pipes-exe",
+    "nombre": "Pipes.exe",
+    "portada": "https://img.youtube.com/vi/5AvUEBR1o0g/hqdefault.jpg",
+    "descripcion": "Una experiencia cooperativa en primera persona de 1 a 4 jugadores basada en lo que estás pensando. Ábrete paso por entornos de pruebas como un empleado de control de calidad para una Compañía Tecnológica Perfectamente Legítima™. Sobrevive a asignaciones simuladas y a la brutal vida corporativa.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Cooperativos en línea",
+      "Multijugador",
+      "Primera persona",
+      "Física"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Playtest disponible",
+    "trailer": "https://youtu.be/5AvUEBR1o0g?si=Q36AwCqGa0l3htYL",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "artius-pure-imagination",
+    "nombre": "ARTIUS: Pure Imagination",
+    "portada": "https://img.youtube.com/vi/ed1762WBRzc/hqdefault.jpg",
+    "descripcion": "ARTIUS is a fast-paced, momentum-based 2D platformer where you play as artists battling to preserve creativity in a world on the verge of artistic extinction! Dash, swing, and smash your way through a vibrant, hand-drawn world in this adrenaline-fueled platformer where art is your strongest weapon.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Aventura",
+      "Acción",
+      "Carreras",
+      "Acción y aventura",
+      "2D"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/ed1762WBRzc?si=UernZJH9gJrT_7eR",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "wicked-delights",
+    "nombre": "Wicked Delights",
+    "portada": "https://img.youtube.com/vi/QtonbiPjtE0/hqdefault.jpg",
+    "descripcion": "Rhythm your way through a campy and mysterious visual novel in Wicked Delights. Battle hideous monsters, sling drinks at a cafe, play lead in a heavy metal band, and much more as you unravel the secrets of a supernatural VHS tape.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Ritmo",
+      "Acción",
+      "Aventura",
+      "Terror",
+      "Casuales",
+      "Oscuros"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/QtonbiPjtE0?si=brtGbSUIZpthwKmk",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "slashzero",
+    "nombre": "SlashZero",
+    "portada": "https://img.youtube.com/vi/glJbLcKHTwc/hqdefault.jpg",
+    "descripcion": "SlashZero is a side-scrolling action roguelike game. As a Timehacker, your job is to travel across timelines and explore a cyberpunk world, use combat skills and strategies to piece together the truth, and take down the Lord of the Void! Is what you see the truth?",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Acción",
+      "Rol",
+      "Roguelike de acción",
+      "Plataformas",
+      "Roguelite"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "PC"
+    ],
+    "demo": "Playtest disponible",
+    "trailer": "https://youtu.be/glJbLcKHTwc?si=C0FBNq8105RsutyI",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "ballgame",
+    "nombre": "Ballgame",
+    "portada": "https://img.youtube.com/vi/1fn7Bq8wPvs/hqdefault.jpg",
+    "descripcion": "Aim, bounce, smash and grind your way through Ballgame, a ballsy physics platformer where you ARE the ball. Compete in challenging tournaments, speed-driven heists, and physics-bending courses where the precision of golf meets the speed of pinball!",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Acción",
+      "Arcade",
+      "Deportes",
+      "Plataformas",
+      "Plataformas 2D"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/1fn7Bq8wPvs?si=yzPTuoRv0kGkY19N",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "1666-amsterdam",
+    "nombre": "1666: Ámsterdam",
+    "portada": "https://img.youtube.com/vi/6nUzNiiCi2Q/hqdefault.jpg",
+    "descripcion": "Cada 333 años, algo despierta. 1666: Amsterdam es un juego de acción y aventuras en tercera persona con una narrativa oscura en la que Noa, la Conservadora, emplea la brujería para erradicar a los demonios tras el semblante humano. Investiga de día, purga de noche.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Protagonista femenina",
+      "Acción y aventura",
+      "Tercera persona"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "demo": "Demo disponible",
+    "trailer": "https://youtu.be/6nUzNiiCi2Q?si=J4CBB7-M4RbMKFLr",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "senua",
+    "nombre": "Senua",
+    "portada": "https://img.youtube.com/vi/91LAY9B6lUc/hqdefault.jpg",
+    "descripcion": "Una guerrera celta atrapada entre la vida y la muerte en una visión fracturada del purgatorio. En esta aventura ambientada en el universo de Hellblade, Senua lucha por reunirse con sus seres queridos, enfrentándose a fuerzas que amenazan todo aquello en lo que cree.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Acción y aventura",
+      "Simulador de caminar"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC",
+      "PlayStation 5"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/91LAY9B6lUc?si=BYTDP4ViETi9sFqI",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "spyrotm-a-realm-beyond",
+    "nombre": "Spyro™: A Realm Beyond",
+    "portada": "https://img.youtube.com/vi/vHFW16_mDbo/hqdefault.jpg",
+    "descripcion": "Añádelo a Mis deseados ya y prepárate para la nueva y trepidante aventura de Spyro™. Alza el vuelo en un viaje totalmente nuevo a través de un reino extraño y maravilloso.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Acción y aventura",
+      "3D",
+      "Dragones"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/vHFW16_mDbo?si=05NVbJJ4obSd24hk",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "kuu",
+    "nombre": "KUU",
+    "portada": "https://img.youtube.com/vi/YCwOgRwictU/hqdefault.jpg",
+    "descripcion": "Trapped in the fading light of a broken moonhouse, you have 30 nights to balance scarce resources. Grow meager rations in the weak earthlight. Navigate the emotional sanity of a fragile sisterhood. Decode ancient documents in search of secrets. Your only choices will be impossible ones.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Ambientales",
+      "Ciencia ficción",
+      "Buena trama",
+      "Gestión"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/YCwOgRwictU?si=KPgqtAJmfY5J_YSR",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "clockwork-revolution",
+    "nombre": "Clockwork Revolution",
+    "portada": "https://img.youtube.com/vi/6B5NUd6B9I4/hqdefault.jpg",
+    "descripcion": "CAMBIA EL PASADO. CONTROLA EL FUTURO. Altera el curso de la historia y reescribe el futuro en este RPG en primera persona tipo steampunk.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Rol",
+      "Steampunk",
+      "Primera persona",
+      "Las elecciones importan"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/6B5NUd6B9I4?si=0u0ZIl5lJMDsBJmk",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "oddbat",
+    "nombre": "Oddbat",
+    "portada": "https://img.youtube.com/vi/N9MA_mCGT9E/hqdefault.jpg",
+    "descripcion": "Have you ever wondered how vampires attain immortality? Join this vampire who transforms into a bat to overcome all the challenges that arise, in order to perform a ritual unlike any other!",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Plataformas de precisión",
+      "Exploración",
+      "Mundo abierto",
+      "2D"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/N9MA_mCGT9E?si=ZmR3-QF0mcJSkTuk",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "gen-atlas",
+    "nombre": "gen ATLAS",
+    "portada": "https://img.youtube.com/vi/0qiis8lUZDc/hqdefault.jpg",
+    "descripcion": "Instalaciones aisladas y silenciosas salpican la superficie de un vasto planeta. A lo lejos, la silueta de un robot descomunal. Sin un destino claro, uno sigue adelante.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Acción y aventura",
+      "Mundo abierto"
+    ],
+    "plataformas": [
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC (Epic)"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/0qiis8lUZDc?si=gHCtqcir2036hs8J",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "shade-protocol",
+    "nombre": "SHADE Protocol",
+    "portada": "https://img.youtube.com/vi/n0c8XF9msJU/hqdefault.jpg",
+    "descripcion": "SHADE Protocol is a 2D cyber-fantasy Metroidvania where music, code, and combat collide. Swap between DAWN and SHADE forms to unleash devastating abilities, wield Instruments as weapons, and rewrite reality itself in a world on the brink of annihilation by the SHADE Protocol.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Metroidvania",
+      "Plataformas",
+      "Tipo «Dark Souls»",
+      "2D",
+      "Indie"
+    ],
+    "plataformas": [
+      "Nintendo Switch",
+      "PlayStation",
+      "Xbox",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/n0c8XF9msJU?si=8pdQLJkmf6h-49PU",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "bad-magpie",
+    "nombre": "Bad Magpie",
+    "portada": "https://img.youtube.com/vi/ixtwifLrU5M/hqdefault.jpg",
+    "descripcion": "Eres una urraca con una sola ala, una bandada perdida y una insana obsesión con una estrella caída. Roba cositas brillantes, crea el caos y mete el pico donde no debes.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Aventura",
+      "Exploración",
+      "Protagonista villano",
+      "Divertidos"
+    ],
+    "plataformas": [
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/ixtwifLrU5M?si=qLGBzPfgF4scZU_W",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  },
+  {
+    "slug": "inanima",
+    "nombre": "INANIMA",
+    "portada": "https://img.youtube.com/vi/x72GFSOaDzs/hqdefault.jpg",
+    "descripcion": "Un juego de terror y supervivencia ambientado en las aisladas instalaciones de una extraña corporación. Busca suministros limitados y lucha contra criaturas aterradoras para revelar la verdad detrás del proyecto Lazarus. Sé parte de algo que cambiará el futuro de la humanidad.",
+    "fecha_texto": "Sin fecha",
+    "fecha_orden": "",
+    "generos": [
+      "Supervivencia / Terror",
+      "Pixelados",
+      "Ambientales",
+      "Combate"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "demo": "Sin demo",
+    "trailer": "https://youtu.be/x72GFSOaDzs?si=PJ5U9pY3cUzTmch_",
+    "desarrollador": "",
+    "tienda": "",
+    "estado": "Confirmado",
+    "galeria": []
+  }
+]

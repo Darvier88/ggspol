@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GG'spol — Juegos por lanzarse</title>
+<meta name="description" content="Catálogo comunitario de videojuegos próximos a lanzarse.">
+<link rel="icon" href="assets/img/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Archivo:wght@600;700;800;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0E1320; --surface:#171D2E; --surface2:#202944; --line:#2A3350;
+  --accent:#FF7A2F; --green:#43C25A; --yellow:#F2C94C;
+  --text:#EEF1F8; --muted:#8C93A8;
+  --radius:14px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:Inter,system-ui,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+img{display:block;max-width:100%}
+.wrap{max-width:1280px;margin:0 auto;padding:0 24px}
+.pixel{font-family:'Press Start 2P',monospace}
+
+/* ---------- HEADER ---------- */
+header{position:sticky;top:0;z-index:60;background:rgba(14,19,32,.9);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;gap:16px;padding:14px 0}
+.brand{display:flex;align-items:center;gap:13px;cursor:pointer}
+.brand img{width:42px;height:42px;image-rendering:pixelated;border-radius:8px;background:#fff;padding:2px}
+.brand .name{font-family:'Press Start 2P',monospace;font-size:17px;letter-spacing:1px}
+.brand .name b{color:var(--accent)}
+.nav .spacer{margin-left:auto}
+.btn{font-family:inherit;font-size:13px;font-weight:600;border-radius:9px;padding:10px 15px;cursor:pointer;border:1px solid var(--line);background:var(--surface);color:var(--text);transition:.15s;display:inline-flex;align-items:center;gap:7px}
+.btn:hover{border-color:var(--muted)}
+.btn-accent{background:var(--accent);border-color:var(--accent);color:#1a0d03;font-weight:700}
+.btn-accent:hover{filter:brightness(1.08)}
+.btn-ghost{background:transparent}
+
+/* ---------- HERO ---------- */
+.hero{padding:48px 0 26px}
+.eyebrow{font-family:'Press Start 2P',monospace;font-size:10px;color:var(--accent);letter-spacing:1px;margin-bottom:18px}
+.hero h1{font-family:Archivo,sans-serif;font-weight:900;font-size:clamp(38px,7vw,76px);line-height:.96;letter-spacing:-1px}
+.hero h1 .g{color:var(--green)}
+.hero p{margin-top:16px;max-width:540px;color:var(--muted);font-size:16px}
+
+/* ---------- CONTROLS ---------- */
+.controls{display:flex;gap:12px;flex-wrap:wrap;align-items:center;padding:18px 0 8px}
+.search{flex:1;min-width:230px;position:relative}
+.search input{width:100%;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:13px 14px 13px 42px;color:var(--text);font-size:14px;font-family:inherit}
+.search input:focus{outline:none;border-color:var(--accent)}
+.search svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);stroke:var(--muted)}
+.selectwrap select{background:var(--surface);border:1px solid var(--line);border-radius:10px;color:var(--text);padding:13px 14px;font-family:inherit;font-size:13px;cursor:pointer}
+.selectwrap select:focus{outline:none;border-color:var(--accent)}
+.chips{display:flex;gap:8px;flex-wrap:wrap;padding:14px 0 4px}
+.chip{font-size:12px;font-weight:600;background:var(--surface);border:1px solid var(--line);color:var(--muted);padding:8px 14px;border-radius:999px;cursor:pointer;transition:.15s}
+.chip:hover{color:var(--text);border-color:var(--muted)}
+.chip.on{background:var(--accent);border-color:var(--accent);color:#1a0d03}
+.chip.demo.on{background:var(--green);border-color:var(--green);color:#03190a}
+.resultcount{color:var(--muted);font-size:12.5px;padding:8px 0 0}
+.resultcount b{color:var(--text)}
+
+/* ---------- GRID ---------- */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:18px;padding:18px 0 80px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;cursor:pointer;display:flex;flex-direction:column;transition:.16s}
+.card:hover{transform:translateY(-4px);border-color:#3c466b;box-shadow:0 18px 38px rgba(0,0,0,.45)}
+.cover{aspect-ratio:16/9;position:relative;background:var(--surface2) center/cover;overflow:hidden}
+.cover .ph{position:absolute;inset:0;display:grid;place-items:center;color:#3c466b}
+.cover .ph .pixel{font-size:8px;color:#4a557e}
+.spine{height:5px;background:var(--green)}
+.spine.rumor{background:var(--yellow)}
+.badges{position:absolute;top:10px;left:10px;right:10px;display:flex;justify-content:space-between;gap:6px;z-index:2}
+.b{font-size:10.5px;font-weight:700;padding:5px 8px;border-radius:6px;letter-spacing:.3px;backdrop-filter:blur(4px)}
+.b-date{background:rgba(14,19,32,.82);border:1px solid var(--line);color:var(--text)}
+.b-date.past{color:var(--muted)}
+.b-demo{background:var(--green);color:#03190a}
+.b-rumor{background:var(--yellow);color:#231b03}
+.card .meta{padding:14px 15px 16px;display:flex;flex-direction:column;gap:10px;flex:1}
+.card h3{font-family:Archivo,sans-serif;font-weight:800;font-size:18px;line-height:1.12;letter-spacing:-.2px}
+.plats{display:flex;gap:5px;flex-wrap:wrap;margin-top:auto}
+.plat{font-size:10px;font-weight:600;color:var(--muted);background:var(--surface2);padding:4px 7px;border-radius:5px}
+.empty{grid-column:1/-1;text-align:center;padding:70px 20px;color:var(--muted)}
+.empty .pixel{color:var(--accent);font-size:13px;display:block;margin-bottom:14px}
+
+/* ---------- DETAIL ---------- */
+.detail{display:none;padding:24px 0 90px}
+.back{color:var(--muted);font-size:13px;font-weight:600;display:inline-flex;align-items:center;gap:7px;margin-bottom:22px;cursor:pointer}
+.back:hover{color:var(--text)}
+.player{aspect-ratio:16/9;width:100%;border-radius:var(--radius);overflow:hidden;background:#000;border:1px solid var(--line)}
+.player iframe{width:100%;height:100%;border:0}
+.player .noplayer{width:100%;height:100%;background:var(--surface2) center/cover;display:grid;place-items:center;color:var(--muted)}
+.dhead{display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;margin:26px 0 6px}
+.dhead h2{font-family:Archivo,sans-serif;font-weight:900;font-size:clamp(28px,5vw,48px);line-height:1;letter-spacing:-.5px;flex:1;min-width:240px}
+.statusrow{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.pill{font-size:12px;font-weight:700;padding:7px 12px;border-radius:999px}
+.pill-green{background:rgba(67,194,90,.16);color:var(--green);border:1px solid rgba(67,194,90,.4)}
+.pill-yellow{background:rgba(242,201,76,.16);color:var(--yellow);border:1px solid rgba(242,201,76,.4)}
+.pill-date{background:var(--surface);border:1px solid var(--line);color:var(--text)}
+.dgrid{display:grid;grid-template-columns:1.6fr 1fr;gap:34px;margin-top:24px}
+.ddesc{font-size:16px;color:#cfd5e6;white-space:pre-line}
+.facts{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:flex;flex-direction:column;gap:16px;align-self:start}
+.fact .k{font-family:'Press Start 2P',monospace;font-size:8px;color:var(--accent);letter-spacing:.5px;margin-bottom:8px}
+.fact .v{font-size:14px;color:var(--text)}
+.taglist{display:flex;gap:6px;flex-wrap:wrap}
+.tag{font-size:11px;color:var(--text);background:var(--surface2);padding:5px 9px;border-radius:6px}
+.tag.gen{color:var(--accent);background:rgba(255,122,47,.12)}
+.storebtn{margin-top:2px}
+.sectitle{font-family:Archivo,sans-serif;font-weight:800;font-size:22px;margin:46px 0 18px;display:flex;align-items:center;gap:12px}
+.sectitle::after{content:"";flex:1;height:1px;background:var(--line)}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+.gallery img{aspect-ratio:16/9;object-fit:cover;width:100%;border-radius:10px;border:1px solid var(--line);cursor:zoom-in;transition:.15s}
+.gallery img:hover{border-color:var(--accent)}
+.gallery-empty{color:var(--muted);font-size:14px;border:1px dashed var(--line);border-radius:10px;padding:26px;text-align:center}
+
+/* lightbox */
+.lb{display:none;position:fixed;inset:0;z-index:200;background:rgba(8,11,18,.92);place-items:center;padding:24px;cursor:zoom-out}
+.lb.on{display:grid}
+.lb img{max-width:92vw;max-height:90vh;border-radius:10px}
+
+footer{border-top:1px solid var(--line);padding:30px 0 60px;color:var(--muted);font-size:12.5px}
+footer a{color:var(--accent)}
+.flex{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+
+@media(max-width:760px){.dgrid{grid-template-columns:1fr;gap:24px}.hero{padding:34px 0 18px}.brand .name{font-size:14px}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav">
+    <div class="brand" onclick="goHome()">
+      <img src="assets/img/logo.png" alt="GG'spol">
+      <span class="name">GG<b>'</b>spol</span>
+    </div>
+    <div class="spacer"></div>
+    <button class="btn btn-ghost" onclick="openSuggest()">Sugerir juego</button>
+    <a class="btn" id="adminLink" href="admin/" title="Panel de administración">Administrar</a>
+  </div>
+</header>
+
+<main class="wrap">
+  <!-- LISTADO -->
+  <div id="view-list">
+    <section class="hero">
+      <div class="eyebrow">CATÁLOGO COMUNITARIO</div>
+      <h1>Juegos <span class="g">por lanzarse</span></h1>
+      <p>Lo que viene en PC y consolas. Filtra por plataforma, busca lo que quieras y abre cada ficha para ver tráiler, detalles e imágenes.</p>
+    </section>
+
+    <section class="controls">
+      <div class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg>
+        <input id="q" type="text" placeholder="Buscar por nombre, género o estudio…" autocomplete="off">
+      </div>
+      <div class="selectwrap">
+        <select id="sort">
+          <option value="date">Próximos primero</option>
+          <option value="date-desc">Más lejanos primero</option>
+          <option value="az">A — Z</option>
+        </select>
+      </div>
+    </section>
+    <div class="wrap" style="padding:0">
+      <div class="chips" id="filters"></div>
+      <div class="resultcount">Mostrando <b id="shown">0</b> de <span id="total">0</span> juegos</div>
+    </div>
+
+    <section class="grid" id="grid"></section>
+  </div>
+
+  <!-- DETALLE -->
+  <div id="view-detail" class="detail">
+    <span class="back" onclick="goHome()">← Volver al catálogo</span>
+    <div id="detail-content"></div>
+  </div>
+</main>
+
+<footer class="wrap">
+  <div class="flex">
+    <span>GG'spol · catálogo comunitario de juegos por lanzarse.</span>
+    <span class="spacer" style="margin-left:auto"></span>
+    <span>¿Falta un juego? <a href="#" onclick="openSuggest();return false;">Sugiérelo aquí</a></span>
+  </div>
+</footer>
+
+<div class="lb" id="lightbox" onclick="this.classList.remove('on')"><img id="lbimg" src="" alt=""></div>
+
+<script>
+/* ====================================================================
+   CONFIG — cambia esto por tu repo de GitHub (usuario/repositorio).
+   Se usa para el botón "Sugerir juego" (abre un Issue) y el enlace al panel.
+==================================================================== */
+const CONFIG = {
+  repo: "Darvier88/ggspol"   // <-- EDITA AQUÍ
+};
+/* ==================================================================== */
+
+const PLATGROUPS = [
+  ["PC","PC"],["PlayStation 5","PS5"],["PlayStation 4","PS4"],
+  ["Xbox Series X|S","Xbox"],["Nintendo Switch 2","Switch 2"],["Nintendo Switch","Switch"]
+];
+
+let GAMES = [];
+let activePlat = null, demoOnly = false, query = "", sortBy = "date";
+
+const $ = id => document.getElementById(id);
+const grid = $('grid'), filtersEl = $('filters');
+const today = new Date().toISOString().slice(0,10);
+
+// admin link relativo (funciona en subcarpeta de GitHub Pages)
+$('adminLink').setAttribute('href', 'admin/');
+
+fetch('games.json').then(r=>r.json()).then(data=>{
+  GAMES = data;
+  $('total').textContent = GAMES.length;
+  buildFilters();
+  router();
+}).catch(()=>{
+  grid.innerHTML = '<div class="empty"><span class="pixel">ERROR</span>No se pudo cargar games.json. Si lo abres localmente, súbelo a un hosting o usa un servidor local.</div>';
+});
+
+/* ---------- FILTROS ---------- */
+function buildFilters(){
+  filtersEl.appendChild(mkChip('Todas', ()=>{activePlat=null;sync();render();}, '__all'));
+  PLATGROUPS.forEach(([full,label])=>{
+    if(GAMES.some(g=>g.plataformas.includes(full)))
+      filtersEl.appendChild(mkChip(label, ()=>{activePlat=full;sync();render();}, full));
+  });
+  const d = mkChip('Con demo', ()=>{demoOnly=!demoOnly;sync();render();}, '__demo');
+  d.classList.add('demo'); filtersEl.appendChild(d);
+}
+function mkChip(text, fn, key){const b=document.createElement('button');b.className='chip';b.textContent=text;b.dataset.key=key;b.onclick=fn;return b;}
+function sync(){
+  [...filtersEl.children].forEach(c=>{
+    if(c.dataset.key==='__demo'){c.classList.toggle('on',demoOnly);return;}
+    if(c.dataset.key==='__all'){c.classList.toggle('on',activePlat===null);return;}
+    c.classList.toggle('on', c.dataset.key===activePlat);
+  });
+}
+$('q').addEventListener('input', e=>{query=e.target.value.toLowerCase().trim();render();});
+$('sort').addEventListener('change', e=>{sortBy=e.target.value;render();});
+
+/* ---------- LÓGICA LISTA ---------- */
+function matches(g){
+  if(activePlat && !g.plataformas.includes(activePlat)) return false;
+  if(demoOnly && g.demo==='Sin demo') return false;
+  if(query){
+    const hay=(g.nombre+' '+g.descripcion+' '+(g.desarrollador||'')+' '+g.generos.join(' ')+' '+g.plataformas.join(' ')).toLowerCase();
+    if(!hay.includes(query)) return false;
+  }
+  return true;
+}
+function sorted(list){
+  const byDate=(a,b)=>{
+    const ao=a.fecha_orden||'9999', bo=b.fecha_orden||'9999';
+    return ao<bo?-1:ao>bo?1:a.nombre.localeCompare(b.nombre);
+  };
+  if(sortBy==='az') return [...list].sort((a,b)=>a.nombre.localeCompare(b.nombre));
+  if(sortBy==='date-desc') return [...list].sort((a,b)=>byDate(b,a));
+  return [...list].sort(byDate);
+}
+function render(){
+  const list=sorted(GAMES.filter(matches));
+  $('shown').textContent=list.length;
+  if(!list.length){grid.innerHTML='<div class="empty"><span class="pixel">SIN RESULTADOS</span>Prueba con otro término o quita los filtros.</div>';return;}
+  grid.innerHTML=list.map(cardHTML).join('');
+}
+function platLabel(p){return (PLATGROUPS.find(x=>x[0]===p)||[null,p])[1];}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+
+function cardHTML(g){
+  const cover = g.portada
+    ? `<div class="cover" style="background-image:url('${esc(g.portada)}')">`
+    : `<div class="cover"><div class="ph"><span class="pixel">SIN IMAGEN</span></div>`;
+  const past = g.fecha_orden && g.fecha_orden < today;
+  const dateBadge = `<span class="b b-date ${past?'past':''}">${past?'Ya disponible':esc(g.fecha_texto)}</span>`;
+  const rightBadge = g.estado==='Rumor'
+    ? `<span class="b b-rumor">Rumor</span>`
+    : (g.demo!=='Sin demo' ? `<span class="b b-demo">${g.demo.includes('Playtest')?'Playtest':'Demo'}</span>` : '');
+  const plats = g.plataformas.map(p=>`<span class="plat">${esc(platLabel(p))}</span>`).join('');
+  return `<article class="card" onclick="location.hash='#/juego/${encodeURIComponent(g.slug)}'">
+    ${cover}
+      <div class="badges">${dateBadge}${rightBadge}</div>
+    </div>
+    <div class="spine ${g.estado==='Rumor'?'rumor':''}"></div>
+    <div class="meta">
+      <h3>${esc(g.nombre)}</h3>
+      <div class="plats">${plats}</div>
+    </div>
+  </article>`;
+}
+
+/* ---------- DETALLE ---------- */
+function ytId(url){
+  if(!url) return '';
+  let m=url.match(/youtu\.be\/([^?&]+)/)||url.match(/[?&]v=([^?&]+)/)||url.match(/embed\/([^?&]+)/);
+  return m?m[1]:'';
+}
+function detailHTML(g){
+  const id=ytId(g.trailer);
+  const player = id
+    ? `<div class="player"><iframe src="https://www.youtube.com/embed/${id}" title="Tráiler" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen></iframe></div>`
+    : (g.portada ? `<div class="player"><div class="noplayer" style="background-image:url('${esc(g.portada)}')"></div></div>`
+                 : `<div class="player"><div class="noplayer">Sin tráiler disponible</div></div>`);
+  const past = g.fecha_orden && g.fecha_orden < today;
+  const statusPills = [
+    `<span class="pill pill-date">📅 ${past?'Ya disponible':esc(g.fecha_texto)}</span>`,
+    g.estado==='Rumor' ? `<span class="pill pill-yellow">Rumor</span>` : `<span class="pill pill-green">Confirmado</span>`,
+    g.demo!=='Sin demo' ? `<span class="pill pill-green">${esc(g.demo)}</span>` : ''
+  ].join('');
+  const gens = g.generos.map(x=>`<span class="tag gen">${esc(x)}</span>`).join('');
+  const plats = g.plataformas.map(x=>`<span class="tag">${esc(x)}</span>`).join('');
+  const dev = g.desarrollador ? `<div class="fact"><div class="k">DESARROLLADOR</div><div class="v">${esc(g.desarrollador)}</div></div>` : '';
+  const store = g.tienda ? `<a class="btn btn-accent storebtn" href="${esc(g.tienda)}" target="_blank" rel="noopener">Ver en tienda ↗</a>` : '';
+  const gallery = (g.galeria&&g.galeria.length)
+    ? `<div class="gallery">${g.galeria.map(src=>`<img loading="lazy" src="${esc(src)}" alt="" onclick="lightbox('${esc(src)}')">`).join('')}</div>`
+    : `<div class="gallery-empty">Aún no hay imágenes. Se irán añadiendo desde el panel de administración.</div>`;
+
+  return `${player}
+    <div class="dhead">
+      <h2>${esc(g.nombre)}</h2>
+    </div>
+    <div class="statusrow">${statusPills}</div>
+    <div class="dgrid">
+      <div>
+        <div class="ddesc">${esc(g.descripcion)}</div>
+      </div>
+      <aside class="facts">
+        ${dev}
+        <div class="fact"><div class="k">PLATAFORMAS</div><div class="v"><div class="taglist">${plats}</div></div></div>
+        <div class="fact"><div class="k">GÉNEROS</div><div class="v"><div class="taglist">${gens}</div></div></div>
+        ${store}
+      </aside>
+    </div>
+    <div class="sectitle">Galería</div>
+    ${gallery}`;
+}
+function lightbox(src){$('lbimg').src=src;$('lightbox').classList.add('on');}
+
+/* ---------- ROUTER ---------- */
+function router(){
+  const m=location.hash.match(/^#\/juego\/(.+)$/);
+  if(m){
+    const slug=decodeURIComponent(m[1]);
+    const g=GAMES.find(x=>x.slug===slug);
+    if(g){
+      $('view-list').style.display='none';
+      $('view-detail').style.display='block';
+      $('detail-content').innerHTML=detailHTML(g);
+      document.title=`${g.nombre} — GG'spol`;
+      window.scrollTo(0,0);
+      return;
+    }
+  }
+  $('view-detail').style.display='none';
+  $('view-list').style.display='block';
+  document.title="GG'spol — Juegos por lanzarse";
+  sync(); render();
+}
+function goHome(){ location.hash=''; if(!location.hash) router(); }
+window.addEventListener('hashchange', router);
+
+/* ---------- SUGERENCIAS (GitHub Issue) ---------- */
+function openSuggest(){
+  const title="Sugerencia de juego: ";
+  const body=[
+    "**Nombre del juego:** ",
+    "**Plataformas:** ",
+    "**Fecha de lanzamiento (si se conoce):** ",
+    "**Enlace a tráiler o web:** ",
+    "**¿Por qué deberíamos añadirlo?** ",
+    "",
+    "_(Gracias por tu aporte 🎮)_"
+  ].join("\n");
+  const url=`https://github.com/${CONFIG.repo}/issues/new?labels=sugerencia&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+  window.open(url,'_blank','noopener');
+}
+</script>
+</body>
+</html>
