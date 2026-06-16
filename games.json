@@ -19,10 +19,15 @@
     ],
     "demo": "Sin demo",
     "trailer": "https://youtu.be/0YJ8U_v-PKc?si=E7jdj-f3jU_H10W5",
-    "desarrollador": "",
-    "tienda": "",
+    "desarrollador": " Draw Me A Pixel",
+    "tienda": "https://store.steampowered.com/app/3858650/Crushed_In_Time/",
     "estado": "Confirmado",
-    "galeria": []
+    "galeria": [
+      "/assets/img/juegos/images-1-.jpg",
+      "/assets/img/juegos/27270-ct7.jpg",
+      "/assets/img/juegos/crushed-in-time-holmes-scene.jpg",
+      "/assets/img/juegos/crushed-in-time-holmes-and-watson-moving-through-the-countryside.jpg"
+    ]
   },
   {
     "slug": "star-fox",
