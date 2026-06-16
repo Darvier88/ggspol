@@ -45,11 +45,17 @@
     ],
     "demo": "Demo disponible",
     "trailer": "https://youtu.be/_p0UmSWGP2w?si=TGgCMv6xIQEw_tU6",
-    "desarrollador": "",
+    "desarrollador": "Nintendo",
     "tienda": "",
-    "precio": "Por anunciar",
+    "precio": "$49.99 (Digital), $59.99 (Fisico)",
     "estado": "Confirmado",
-    "galeria": []
+    "galeria": [
+      "/assets/img/juegos/star-fox-new-group-shot.webp",
+      "/assets/img/juegos/star-fox-preview-nth-hero-webp.webp",
+      "/assets/img/juegos/star-fox-switch-2-character-designer-comments.jpg",
+      "/assets/img/juegos/hhqy__absaa9zlg_1121x624.webp",
+      "/assets/img/juegos/star-fox-remake-2.jpg"
+    ]
   },
   {
     "slug": "rythm-paradise-groove",
