@@ -9,6 +9,7 @@ demo: Sin demo
 trailer: https://youtu.be/0YJ8U_v-PKc?si=E7jdj-f3jU_H10W5
 desarrollador: " Draw Me A Pixel"
 tienda: https://store.steampowered.com/app/3858650/Crushed_In_Time/
+precio: $12.49
 generos:
   - Aventura
   - Apuntar y clic
