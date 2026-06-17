@@ -73,11 +73,18 @@
     ],
     "demo": "Sin demo",
     "trailer": "https://youtu.be/ZdMwqKiSeEE?si=EgMXhzMHD2mI1W1w",
-    "desarrollador": "",
+    "desarrollador": "Nintendo EPD, TNX",
     "tienda": "",
-    "precio": "Por anunciar",
+    "precio": "$39,99",
     "estado": "Confirmado",
-    "galeria": []
+    "galeria": [
+      "/assets/img/juegos/xy7rimjp55fcxneffyaudrqhqa.avif",
+      "/assets/img/juegos/rhythmparadise_slicendicekitchen1_screenshot_es.jpg",
+      "/assets/img/juegos/rhythmparadise_cando1_screenshot_es.jpg",
+      "/assets/img/juegos/rhythmparadise_fruitflex1_screenshot_es.jpg",
+      "/assets/img/juegos/rhythmparadise_germaerobics1_screenshot_es.jpg",
+      "/assets/img/juegos/rhythmparadise_sodahop2_screenshot_es.jpg"
+    ]
   },
   {
     "slug": "fugaz",
